@@ -1,0 +1,803 @@
+GSM,sample_code,group,age,sex,diabetes,pneumonia_dx,abdominal_sepsis_group,thrombocytopenia,icu_acquired_infection,icu_acq_infection_paired,batch_date,plate_well,qc_corr_to_median,completeness_score,sample_QC_tier,death_28d,days_to_event_28d,DO_NOT_USE_endotype_cohort,DO_NOT_USE_endotype_class,in_analysis_set,exclusion_reason
+GSM1602801,3270,ICU,64,male,,no-cap,,,,,2013-04-03,B02,0.9742,0.50,Bronze,,,,,0,no 28-day outcome in GEO
+GSM1602802,1793,ICU,46,female,No_DM,cap,,,No_ICUA,,2013-04-03,B06,0.9674,1.00,Gold,0,28,discovery,Mars2,1,
+GSM1602803,3252,ICU,69,male,No_DM,cap,,,,,2013-04-03,B07,0.9677,1.00,Gold,0,28,discovery,Mars2,1,
+GSM1602804,3242,ICU,60,male,,no-cap,,,,,2013-04-03,B08,0.9611,0.50,Bronze,,,,,0,no 28-day outcome in GEO
+GSM1602805,2736,ICU,64,female,No_DM,cap,,,No_ICUA,,2013-04-03,C08,0.9566,1.00,Gold,0,28,discovery,Mars2,1,
+GSM1602806,526,ICU,54,male,,no-cap,,,,,2013-04-03,E06,0.9556,0.50,Bronze,,,,,0,no 28-day outcome in GEO
+GSM1602807,hv59,healthy,31,male,,,,,healthy,healthy,2013-04-03,E09,0.9456,0.50,Excluded_healthy,,,,,0,healthy control
+GSM1602808,2618,ICU,59,male,,no-cap,,,,,2013-04-03,F02,0.9592,0.50,Bronze,,,,,0,no 28-day outcome in GEO
+GSM1602809,hv49,healthy,26,male,,,,,healthy,healthy,2013-04-03,F10,0.9156,0.50,Excluded_healthy,,,,,0,healthy control
+GSM1602810,3147,ICU,77,male,DM,cap,,C_low,,,2013-04-03,G07,0.9577,1.00,Gold,0,28,discovery,Mars3,1,
+GSM1602811,2404,ICU,63,female,No_DM,cap,,,ICUA,,2013-04-03,H02,0.933,1.00,Gold,0,28,discovery,Mars4,1,
+GSM1602812,544,ICU,71,female,No_DM,cap,,,No_ICUA,,2013-04-03,H05,0.9737,1.00,Gold,0,28,discovery,Mars1,1,
+GSM1602813,2480,ICU,73,female,No_DM,cap,,,No_ICUA,,2013-04-03,H09,0.9093,1.00,Gold,1,4,discovery,Mars1,1,
+GSM1602814,2572276,ICU,59,female,,no-cap,,,,,2013-03-05,A03,0.9729,0.50,Bronze,,,,,0,no 28-day outcome in GEO
+GSM1602815,408,ICU,61,female,No_DM,cap,,D_normal,,,2013-03-05,A10,0.9569,1.00,Gold,0,28,discovery,Mars2,1,
+GSM1602816,2590193,ICU,84,female,No_DM,cap,,C_low,No_ICUA,,2013-03-05,B05,0.9638,1.00,Gold,0,28,validation,Mars3,1,
+GSM1602817,2165,ICU,67,male,,no-cap,,,,,2013-03-05,B12,0.9488,0.50,Bronze,,,,,0,no 28-day outcome in GEO
+GSM1602818,2405776,ICU,62,male,No_DM,cap,,B_medium_low,No_ICUA,,2013-03-05,C04,0.9204,1.00,Gold,0,28,validation,Mars1,1,
+GSM1602819,2404709,ICU,71,male,No_DM,cap,,,No_ICUA,ADMIS_NO_ICUAI,2013-03-05,C06,0.9633,1.00,Gold,0,28,validation,Mars2,1,
+GSM1602820,2123,ICU,61,male,No_DM,cap,,,No_ICUA,,2013-03-05,C12,0.9777,1.00,Gold,0,28,discovery,Mars3,1,
+GSM1602821,383,ICU,67,female,,no-cap,,,,,2013-03-05,D01,0.9599,0.50,Bronze,,,,,0,no 28-day outcome in GEO
+GSM1602822,605,ICU,32,male,,no-cap,,,,,2013-03-05,E11,0.9397,0.50,Bronze,,,,,0,no 28-day outcome in GEO
+GSM1602823,2177356,ICU,52,male,,cap,,,,,2013-03-05,F01,0.9251,0.75,Silver,1,17,validation,Mars1,1,
+GSM1602824,2106085,ICU,32,male,No_DM,cap,,,No_ICUA,,2013-03-05,G02,0.9349,1.00,Gold,0,28,validation,Mars1,1,
+GSM1602825,1052,ICU,78,female,No_DM,cap,,,No_ICUA,,2013-03-05,H09,0.9697,1.00,Gold,0,28,discovery,Mars2,1,
+GSM1602826,2095,ICU,70,male,No_DM,cap,,,ICUA,Admis_ICUAI,2013-02-06,C05,0.9526,1.00,Gold,0,28,discovery,Mars2,1,
+GSM1602827,218,ICU,62,female,No_DM,cap,,,No_ICUA,,2013-02-06,E04,0.9705,1.00,Gold,0,28,discovery,Mars3,1,
+GSM1602828,2669401,ICU,54,female,,no-cap,,,,,2013-02-06,F02,0.93,0.50,Bronze,,,,,0,no 28-day outcome in GEO
+GSM1602829,2664986,ICU,63,male,No_DM,cap,,,,,2013-02-06,F04,0.955,1.00,Gold,0,28,validation,Mars2,1,
+GSM1602830,1498,ICU,47,male,No_DM,cap,,,,,2013-02-06,F11,0.9649,1.00,Gold,0,28,discovery,Mars2,1,
+GSM1602831,2586738,ICU,79,male,DM,cap,,,No_ICUA,,2013-02-06,F12,0.97,1.00,Gold,0,28,validation,Mars2,1,
+GSM1602832,2392950,ICU,61,female,DM,cap,,D_normal,,,2013-02-06,G01,0.9701,1.00,Gold,0,28,validation,Mars3,1,
+GSM1602833,2709216,ICU,28,female,DM,cap,,,No_ICUA,,2013-02-06,G02,0.8731,0.75,Bronze,,,,,0,no 28-day outcome in GEO
+GSM1602834,2731081,ICU,81,male,No_DM,cap,,,,,2013-02-06,H03,0.9592,1.00,Gold,0,28,validation,Mars2,1,
+GSM1602835,1171,ICU,63,male,,no-cap,,,,,2013-03-07,A04,0.9619,0.50,Bronze,,,,,0,no 28-day outcome in GEO
+GSM1602836,2000,ICU,67,male,No_DM,cap,,,,,2013-03-07,A11,0.9579,1.00,Gold,0,28,discovery,Mars3,1,
+GSM1602837,2107380,ICU,25,male,No_DM,cap,,,,,2013-03-07,B09,0.9742,1.00,Gold,0,28,validation,Mars2,1,
+GSM1602838,2545687,ICU,50,male,DM,cap,,,ICUA,,2013-03-07,B10,0.9706,1.00,Gold,0,28,validation,Mars3,1,
+GSM1602839,2684834,ICU,84,male,DM,cap,,,ICUA,,2013-03-07,C09,0.9611,1.00,Gold,1,12,validation,Mars2,1,
+GSM1602840,1695,ICU,18,female,No_DM,cap,,,,,2013-03-07,F02,0.9463,1.00,Gold,0,28,discovery,Mars2,1,
+GSM1602841,2757591,ICU,68,female,No_DM,cap,,,No_ICUA,,2013-03-07,F08,0.9778,1.00,Gold,0,28,validation,Mars2,1,
+GSM1602842,873,ICU,64,female,No_DM,cap,,,No_ICUA,,2013-03-07,G02,0.9553,1.00,Gold,0,28,discovery,Mars2,1,
+GSM1602843,1272,ICU,48,female,No_DM,cap,,,No_ICUA,,2013-03-07,G12,0.952,1.00,Gold,0,28,discovery,Mars4,1,
+GSM1602844,1281,ICU,76,male,No_DM,cap,,,No_ICUA,,2013-03-07,H01,0.9283,1.00,Gold,1,7,discovery,Mars2,1,
+GSM1602845,2463040,ICU,58,male,DM,cap,,,,,2013-03-12,A07,0.9561,1.00,Gold,0,28,validation,Mars2,1,
+GSM1602846,2459139,ICU,21,male,No_DM,cap,,,No_ICUA,,2013-03-12,B04,0.9576,1.00,Gold,0,28,validation,Mars3,1,
+GSM1602847,643,ICU,43,male,No_DM,cap,,A_very_low,No_ICUA,,2013-03-12,E10,0.9756,1.00,Gold,0,28,discovery,Mars3,1,
+GSM1602848,2028,ICU,61,male,No_DM,cap,,,No_ICUA,,2013-03-12,G10,0.9668,1.00,Gold,0,28,discovery,Mars1,1,
+GSM1602849,602,ICU,74,male,No_DM,cap,,,No_ICUA,,2013-03-12,H12,0.9653,1.00,Gold,1,11,discovery,Mars4,1,
+GSM1602850,2138225,ICU,25,male,No_DM,cap,,D_normal,No_ICUA,,2013-02-13,A08,0.9754,1.00,Gold,0,28,validation,Mars2,1,
+GSM1602851,2262695,ICU,85,female,No_DM,cap,,,ICUA,,2013-02-13,B06,0.9055,1.00,Gold,1,14,validation,Mars3,1,
+GSM1602852,1521,ICU,26,female,No_DM,cap,,A_very_low,ICUA,Admis_ICUAI,2013-02-13,B10,0.9384,1.00,Gold,0,28,discovery,Mars1,1,
+GSM1602853,338,ICU,72,female,DM,cap,,,No_ICUA,,2013-02-13,C12,0.9824,1.00,Gold,0,28,discovery,Mars3,1,
+GSM1602854,1850,ICU,48,female,,no-cap,,,,,2013-02-13,D08,0.9362,0.50,Bronze,,,,,0,no 28-day outcome in GEO
+GSM1602855,882,ICU,47,male,No_DM,cap,,A_very_low,ICUA,Admis_ICUAI,2013-02-13,E04,0.9233,1.00,Gold,0,28,discovery,Mars2,1,
+GSM1602856,1988,ICU,63,male,DM,cap,,,No_ICUA,ADMIS_NO_ICUAI,2013-02-13,F06,0.942,1.00,Gold,0,28,discovery,Mars3,1,
+GSM1602857,2246,ICU,86,female,DM,cap,,,No_ICUA,,2013-02-13,F12,0.9192,1.00,Gold,0,28,discovery,Mars3,1,
+GSM1602858,2311555,ICU,53,male,No_DM,cap,,D_normal,ICUA,Admis_ICUAI,2013-03-13,A05,0.9641,1.00,Gold,1,15,validation,Mars2,1,
+GSM1602859,732,ICU,68,male,No_DM,cap,,,,,2013-03-13,C03,0.9601,1.00,Gold,0,28,discovery,Mars2,1,
+GSM1602860,2886199,ICU,69,male,No_DM,cap,,,No_ICUA,,2013-03-13,C10,0.9724,1.00,Gold,0,28,validation,Mars3,1,
+GSM1602861,2151524,ICU,62,male,No_DM,cap,,,No_ICUA,,2013-03-13,D08,0.9655,1.00,Gold,0,28,validation,Mars2,1,
+GSM1602862,hv45,healthy,66,male,,,,,healthy,healthy,2013-03-13,F09,0.9213,0.50,Excluded_healthy,,,,,0,healthy control
+GSM1602863,2862824,ICU,72,female,DM,cap,,D_normal,,,2013-03-13,F11,0.9758,1.00,Gold,1,1,validation,Mars2,1,
+GSM1602864,hv32,healthy,30,male,,,,,healthy,healthy,2013-03-13,F12,0.9067,0.50,Excluded_healthy,,,,,0,healthy control
+GSM1602865,2173,ICU,53,male,,no-cap,,,,,2013-03-13,H02,0.9578,0.50,Bronze,,,,,0,no 28-day outcome in GEO
+GSM1602866,2809208,ICU,63,male,No_DM,cap,,,No_ICUA,,2013-03-13,H06,0.945,1.00,Gold,0,28,validation,Mars4,1,
+GSM1602867,821,ICU,77,male,,no-cap,,,,,2013-03-13,H10,0.9618,0.50,Bronze,,,,,0,no 28-day outcome in GEO
+GSM1602868,948,ICU,61,male,No_DM,cap,,,No_ICUA,,2013-03-14,A08,0.9442,1.00,Gold,1,2,discovery,Mars4,1,
+GSM1602869,399,ICU,67,male,No_DM,cap,,A_very_low,No_ICUA,,2013-03-14,A09,0.95,1.00,Gold,0,28,discovery,Mars1,1,
+GSM1602870,hv35,healthy,41,female,,,,,healthy,healthy,2013-03-14,A10,0.9201,0.50,Excluded_healthy,,,,,0,healthy control
+GSM1602871,hv21,healthy,63,male,,,,,healthy,healthy,2013-03-14,A12,0.9458,0.50,Excluded_healthy,,,,,0,healthy control
+GSM1602872,hv15,healthy,72,female,,,,,healthy,healthy,2013-03-14,B03,0.9475,0.50,Excluded_healthy,,,,,0,healthy control
+GSM1602873,2952545,ICU,81,male,No_DM,cap,,,No_ICUA,,2013-03-14,B06,0.9727,1.00,Gold,0,28,validation,Mars2,1,
+GSM1602874,hv40,healthy,34,male,,,,,healthy,healthy,2013-03-14,B10,0.9413,0.50,Excluded_healthy,,,,,0,healthy control
+GSM1602875,hv56,healthy,31,male,,,,,healthy,healthy,2013-03-14,C02,0.9233,0.50,Excluded_healthy,,,,,0,healthy control
+GSM1602876,hv52,healthy,63,male,,,,,healthy,healthy,2013-03-14,C05,0.9398,0.50,Excluded_healthy,,,,,0,healthy control
+GSM1602877,2753480,ICU,71,male,,no-cap,,,,,2013-03-14,C08,0.9387,0.50,Bronze,,,,,0,no 28-day outcome in GEO
+GSM1602878,1973,ICU,65,female,No_DM,cap,,,,,2013-03-14,D08,0.9532,1.00,Gold,0,28,discovery,Mars1,1,
+GSM1602879,2500051,ICU,59,male,No_DM,cap,,,No_ICUA,,2013-03-14,D09,0.9133,1.00,Gold,0,28,validation,Mars3,1,
+GSM1602880,2213154,ICU,22,female,No_DM,cap,,A_very_low,,,2013-03-14,D11,0.9315,1.00,Gold,1,0,validation,Mars3,1,
+GSM1602881,1257,ICU,75,female,DM,cap,,,No_ICUA,,2013-03-14,E04,0.9773,1.00,Gold,0,28,discovery,Mars3,1,
+GSM1602882,440,ICU,77,female,No_DM,cap,,,No_ICUA,,2013-03-14,E11,0.9801,1.00,Gold,0,28,discovery,Mars3,1,
+GSM1602883,228,ICU,25,female,No_DM,cap,,B_medium_low,No_ICUA,,2013-03-14,F11,0.925,1.00,Gold,0,28,discovery,Mars2,1,
+GSM1602884,hv55,healthy,51,male,,,,,healthy,healthy,2013-03-14,G11,0.9256,0.50,Excluded_healthy,,,,,0,healthy control
+GSM1602885,2122227,ICU,65,male,No_DM,cap,,,,,2013-03-19,A03,0.9604,1.00,Gold,0,28,validation,Mars2,1,
+GSM1602886,2682699,ICU,48,male,No_DM,cap,,,No_ICUA,,2013-03-19,A04,0.9663,1.00,Gold,0,28,validation,Mars3,1,
+GSM1602887,1299,ICU,21,female,,no-cap,,,,,2013-03-19,C01,0.9377,0.50,Bronze,,,,,0,no 28-day outcome in GEO
+GSM1602888,897,ICU,49,male,No_DM,cap,,,,,2013-03-19,C04,0.9775,1.00,Gold,0,8,discovery,Mars3,1,
+GSM1602889,533,ICU,64,female,No_DM,cap,,B_medium_low,,,2013-03-19,C10,0.9662,1.00,Gold,0,28,discovery,Mars2,1,
+GSM1602890,725,ICU,23,male,,no-cap,,,,,2013-03-19,C12,0.9578,0.50,Bronze,,,,,0,no 28-day outcome in GEO
+GSM1602891,hv43,healthy,31,female,,,,,healthy,healthy,2013-03-19,D02,0.9532,0.50,Excluded_healthy,,,,,0,healthy control
+GSM1602892,hv23,healthy,71,female,,,,,healthy,healthy,2013-03-19,D03,0.9476,0.50,Excluded_healthy,,,,,0,healthy control
+GSM1602893,hv09,healthy,61,male,,,,,healthy,healthy,2013-03-19,D04,0.961,0.50,Excluded_healthy,,,,,0,healthy control
+GSM1602894,hv38,healthy,35,male,,,,,healthy,healthy,2013-03-19,D05,0.9299,0.50,Excluded_healthy,,,,,0,healthy control
+GSM1602895,hv10,healthy,88,male,,,,,healthy,healthy,2013-03-19,D06,0.939,0.50,Excluded_healthy,,,,,0,healthy control
+GSM1602896,hv53,healthy,28,male,,,,,healthy,healthy,2013-03-19,D07,0.916,0.50,Excluded_healthy,,,,,0,healthy control
+GSM1602897,hv34,healthy,28,female,,,,,healthy,healthy,2013-03-19,D12,0.9205,0.50,Excluded_healthy,,,,,0,healthy control
+GSM1602898,hv14,healthy,74,female,,,,,healthy,healthy,2013-03-19,E01,0.9507,0.50,Excluded_healthy,,,,,0,healthy control
+GSM1602899,hv39,healthy,34,female,,,,,healthy,healthy,2013-03-19,E07,0.9479,0.50,Excluded_healthy,,,,,0,healthy control
+GSM1602900,hv41,healthy,25,female,,,,,healthy,healthy,2013-03-19,E08,0.9359,0.50,Excluded_healthy,,,,,0,healthy control
+GSM1602901,hv20,healthy,46,female,,,,,healthy,healthy,2013-03-19,E09,0.9362,0.50,Excluded_healthy,,,,,0,healthy control
+GSM1602902,2047294,ICU,66,male,DM,cap,,D_normal,No_ICUA,,2013-03-19,F05,0.9523,1.00,Gold,0,28,validation,Mars2,1,
+GSM1602903,2113,ICU,57,female,No_DM,cap,,B_medium_low,No_ICUA,,2013-03-19,F07,0.8923,1.00,Bronze,1,17,discovery,Mars1,1,
+GSM1602904,2849441,ICU,18,male,,no-cap,,,,,2013-03-19,H04,0.9693,0.50,Bronze,,,,,0,no 28-day outcome in GEO
+GSM1602905,2128798,ICU,24,male,,no-cap,,,,,2013-03-19,H05,0.9667,0.50,Bronze,,,,,0,no 28-day outcome in GEO
+GSM1602906,2603118,ICU,81,male,DM,cap,,,,,2013-03-19,H08,0.9614,1.00,Gold,0,28,validation,Mars3,1,
+GSM1602907,2587517,ICU,64,male,No_DM,cap,,,No_ICUA,,2013-03-20,A03,0.9452,1.00,Gold,0,28,validation,Mars4,1,
+GSM1602908,1225,ICU,79,male,No_DM,cap,,,,,2013-03-20,B11,0.9391,1.00,Gold,1,0,discovery,Mars1,1,
+GSM1602909,hv04,healthy,48,male,,,,,healthy,healthy,2013-03-20,C02,0.9205,0.50,Excluded_healthy,,,,,0,healthy control
+GSM1602910,hv08,healthy,78,male,,,,,healthy,healthy,2013-03-20,C04,0.9325,0.50,Excluded_healthy,,,,,0,healthy control
+GSM1602911,hv02,healthy,51,male,,,,,healthy,healthy,2013-03-20,C05,0.9499,0.50,Excluded_healthy,,,,,0,healthy control
+GSM1602912,2937810,ICU,76,female,No_DM,cap,,,No_ICUA,,2013-03-20,C07,0.9503,1.00,Gold,1,8,validation,Mars3,1,
+GSM1602913,hv12,healthy,35,male,,,,,healthy,healthy,2013-03-20,C11,0.925,0.50,Excluded_healthy,,,,,0,healthy control
+GSM1602914,hv54,healthy,39,male,,,,,healthy,healthy,2013-03-20,D03,0.9271,0.50,Excluded_healthy,,,,,0,healthy control
+GSM1602915,hv47,healthy,31,male,,,,,healthy,healthy,2013-03-20,D04,0.9341,0.50,Excluded_healthy,,,,,0,healthy control
+GSM1602916,hv17,healthy,87,female,,,,,healthy,healthy,2013-03-20,D05,0.9391,0.50,Excluded_healthy,,,,,0,healthy control
+GSM1602917,hv16,healthy,80,female,,,,,healthy,healthy,2013-03-20,D11,0.9639,0.50,Excluded_healthy,,,,,0,healthy control
+GSM1602918,2647363,ICU,54,male,,no-cap,,,,,2013-03-20,F03,0.9618,0.50,Bronze,,,,,0,no 28-day outcome in GEO
+GSM1602919,1546,ICU,63,male,,no-cap,,,,,2013-03-20,F11,0.9476,0.50,Bronze,,,,,0,no 28-day outcome in GEO
+GSM1602920,hv36,healthy,39,male,,,,,healthy,healthy,2013-03-20,G02,0.9419,0.50,Excluded_healthy,,,,,0,healthy control
+GSM1602921,2458108,ICU,29,female,DM,cap,,,No_ICUA,,2013-03-20,G03,0.9722,1.00,Gold,0,28,validation,Mars4,1,
+GSM1602922,2343,ICU,81,female,DM,cap,,,No_ICUA,,2013-03-20,G12,0.9482,1.00,Gold,0,28,discovery,Mars2,1,
+GSM1602923,2340,ICU,40,female,No_DM,cap,,,,,2013-03-20,H01,0.9019,1.00,Gold,1,1,discovery,Mars2,1,
+GSM1602924,2329,ICU,45,male,No_DM,cap,,A_very_low,No_ICUA,,2013-03-20,H02,0.9409,1.00,Gold,0,28,discovery,Mars2,1,
+GSM1602925,2654,ICU,59,male,DM,cap,,,No_ICUA,,2013-03-21,C08,0.961,1.00,Gold,0,28,discovery,Mars4,1,
+GSM1602926,2637,ICU,71,male,,no-cap,,,,,2013-03-21,D05,0.9263,0.50,Bronze,,,,,0,no 28-day outcome in GEO
+GSM1602927,2545,ICU,82,female,No_DM,cap,,B_medium_low,,,2013-03-21,D11,0.9348,1.00,Gold,1,0,discovery,Mars4,1,
+GSM1602928,2536,ICU,77,female,No_DM,cap,,A_very_low,ICUA,,2013-03-21,E02,0.9472,1.00,Gold,1,14,discovery,Mars2,1,
+GSM1602929,2516,ICU,64,male,DM,cap,,,,,2013-03-21,E05,0.9613,1.00,Gold,0,28,discovery,Mars2,1,
+GSM1602930,2475,ICU,69,female,No_DM,cap,,,No_ICUA,,2013-03-21,F01,0.968,1.00,Gold,0,28,discovery,Mars3,1,
+GSM1602931,2468,ICU,73,female,No_DM,cap,,,No_ICUA,,2013-03-21,F04,0.9635,1.00,Gold,1,20,discovery,Mars4,1,
+GSM1602932,2384,ICU,61,male,No_DM,cap,,,No_ICUA,,2013-03-21,G03,0.9351,1.00,Gold,1,15,discovery,Mars2,1,
+GSM1602933,2406,ICU,71,male,DM,cap,,,No_ICUA,,2013-03-21,G07,0.9624,1.00,Gold,0,28,discovery,Mars1,1,
+GSM1602934,2955,ICU,52,female,No_DM,cap,,A_very_low,No_ICUA,,2013-03-21,G08,0.953,1.00,Gold,1,22,discovery,Mars4,1,
+GSM1602935,2924,ICU,77,male,No_DM,cap,,,No_ICUA,,2013-03-21,H10,0.9264,1.00,Gold,0,28,discovery,Mars1,1,
+GSM1602936,2023712,ICU,77,female,DM,cap,,,No_ICUA,,2013-01-22,A03,0.9682,1.00,Gold,0,28,validation,Mars2,1,
+GSM1602937,2245624,ICU,63,female,No_DM,cap,,,No_ICUA,,2013-01-22,A05,0.9486,1.00,Gold,0,28,validation,Mars1,1,
+GSM1602938,306,ICU,75,female,,no-cap,,,,,2013-01-22,A07,0.9727,0.50,Bronze,,,,,0,no 28-day outcome in GEO
+GSM1602939,2587750,ICU,51,female,,no-cap,,,,,2013-01-22,A11,0.9575,0.50,Bronze,,,,,0,no 28-day outcome in GEO
+GSM1602940,2764528,ICU,70,male,DM,cap,,B_medium_low,ICUA,,2013-01-22,B03,0.9599,1.00,Gold,0,28,validation,Mars1,1,
+GSM1602941,316,ICU,32,female,,no-cap,,,,,2013-01-22,C11,0.9567,0.50,Bronze,,,,,0,no 28-day outcome in GEO
+GSM1602942,2402042,ICU,23,male,No_DM,cap,,B_medium_low,ICUA,,2013-01-22,D12,0.9618,1.00,Gold,1,28,validation,Mars2,1,
+GSM1602943,1552,ICU,48,female,No_DM,cap,,,No_ICUA,,2013-01-22,E09,0.9665,1.00,Gold,1,16,discovery,Mars3,1,
+GSM1602944,2533256,ICU,61,male,No_DM,cap,,,No_ICUA,,2013-01-22,E11,0.936,1.00,Gold,0,28,validation,Mars3,1,
+GSM1602945,2318433,ICU,70,female,DM,cap,,,No_ICUA,,2013-01-22,G09,0.9669,1.00,Gold,0,28,validation,Mars4,1,
+GSM1602946,2428168,ICU,77,male,No_DM,cap,,D_normal,No_ICUA,,2013-01-22,H10,0.9589,1.00,Gold,1,8,validation,Mars2,1,
+GSM1602947,2606322,ICU,75,male,No_DM,cap,,,No_ICUA,,2013-01-22,H12,0.9522,0.75,Bronze,,,,,0,no 28-day outcome in GEO
+GSM1602948,hv22,healthy,60,male,,,,,healthy,healthy,2013-03-26,A04,0.9039,0.50,Excluded_healthy,,,,,0,healthy control
+GSM1602949,579,ICU,78,male,,no-cap,,,,,2013-03-26,A06,0.9589,0.50,Bronze,,,,,0,no 28-day outcome in GEO
+GSM1602950,2274,ICU,78,female,No_DM,cap,,,No_ICUA,,2013-03-26,B10,0.964,1.00,Gold,0,28,discovery,Mars3,1,
+GSM1602951,2758,ICU,81,female,,no-cap,,,,,2013-03-26,D02,0.957,0.50,Bronze,,,,,0,no 28-day outcome in GEO
+GSM1602952,2718,ICU,48,male,No_DM,cap,,B_medium_low,,,2013-03-26,E02,0.9731,1.00,Gold,0,28,discovery,Mars3,1,
+GSM1602953,2659,ICU,54,female,DM,cap,,,No_ICUA,,2013-03-26,E11,0.903,1.00,Gold,0,28,discovery,Mars1,1,
+GSM1602954,hv42,healthy,35,female,,,,,healthy,healthy,2013-03-26,F06,0.9389,0.50,Excluded_healthy,,,,,0,healthy control
+GSM1602955,3071,ICU,73,male,,no-cap,,,,,2013-03-26,F08,0.9585,0.50,Bronze,,,,,0,no 28-day outcome in GEO
+GSM1602956,hv57,healthy,30,female,,,,,healthy,healthy,2013-03-26,F09,0.9301,0.50,Excluded_healthy,,,,,0,healthy control
+GSM1602957,hv44,healthy,32,male,,,,,healthy,healthy,2013-03-26,F12,0.9446,0.50,Excluded_healthy,,,,,0,healthy control
+GSM1602958,3005,ICU,48,male,No_DM,cap,,C_low,No_ICUA,,2013-03-26,G09,0.9533,1.00,Gold,0,28,discovery,Mars4,1,
+GSM1602959,3079,ICU,67,male,,no-cap,,,,,2013-03-26,G10,0.9749,0.50,Bronze,,,,,0,no 28-day outcome in GEO
+GSM1602960,hv70,healthy,27,female,,,,,healthy,healthy,2013-03-26,G11,0.9322,0.50,Excluded_healthy,,,,,0,healthy control
+GSM1602961,hv69,healthy,24,female,,,,,healthy,healthy,2013-03-26,H10,0.9395,0.50,Excluded_healthy,,,,,0,healthy control
+GSM1602962,hv48,healthy,29,male,,,,,healthy,healthy,2013-03-26,H12,0.9286,0.50,Excluded_healthy,,,,,0,healthy control
+GSM1602963,hv33,healthy,26,female,,,,,healthy,healthy,2013-03-27,A03,0.9144,0.50,Excluded_healthy,,,,,0,healthy control
+GSM1602964,hv68,healthy,26,male,,,,,healthy,healthy,2013-03-27,A11,0.95,0.50,Excluded_healthy,,,,,0,healthy control
+GSM1602965,1109,ICU,63,female,,no-cap,,,,,2013-03-27,B12,0.9275,0.50,Bronze,,,,,0,no 28-day outcome in GEO
+GSM1602966,hv24,healthy,64,female,,,,,healthy,healthy,2013-03-27,C05,0.9365,0.50,Excluded_healthy,,,,,0,healthy control
+GSM1602967,580,ICU,48,female,,no-cap,,,,,2013-03-27,C08,0.9516,0.50,Bronze,,,,,0,no 28-day outcome in GEO
+GSM1602968,2209803,ICU,68,male,DM,cap,,,No_ICUA,,2013-03-27,D02,0.9255,1.00,Gold,0,28,validation,Mars1,1,
+GSM1602969,hv13,healthy,69,female,,,,,healthy,healthy,2013-03-27,D03,0.9192,0.50,Excluded_healthy,,,,,0,healthy control
+GSM1602970,2642319,ICU,48,male,,no-cap,,,,,2013-03-27,D07,0.9611,0.50,Bronze,,,,,0,no 28-day outcome in GEO
+GSM1602971,1701,ICU,57,male,,no-cap,,,,,2013-03-27,E03,0.968,0.50,Bronze,,,,,0,no 28-day outcome in GEO
+GSM1602972,3404,ICU,46,male,,no-cap,,,,,2013-03-27,F07,0.9481,0.50,Bronze,,,,,0,no 28-day outcome in GEO
+GSM1602973,3395,ICU,77,male,No_DM,cap,,,,,2013-03-27,F08,0.8342,1.00,Bronze,0,28,discovery,Mars1,1,
+GSM1602974,3351,ICU,70,female,No_DM,cap,,,,,2013-03-27,F10,0.8922,1.00,Bronze,0,28,discovery,Mars1,1,
+GSM1602975,2769,ICU,61,male,No_DM,cap,,,No_ICUA,ADMIS_NO_ICUAI,2013-03-27,G01,0.9679,1.00,Gold,0,28,discovery,Mars2,1,
+GSM1602976,3266,ICU,40,male,No_DM,cap,,,No_ICUA,,2013-03-27,H05,0.9651,1.00,Gold,0,28,discovery,Mars1,1,
+GSM1691861,3213,ICU,83,female,,hap,,,,,2013-04-03,A01,0.9584,0.75,Silver,1,6,discovery,Mars1,1,
+GSM1691862,3210,ICU,50,male,,,,,,,2013-04-03,A02,0.9779,0.50,Bronze,,,,,0,no 28-day outcome in GEO
+GSM1691863,3199,ICU,38,male,No_DM,hap,,C_low,No_ICUA,,2013-04-03,A03,0.9637,1.00,Gold,0,28,discovery,Mars2,1,
+GSM1691864,3193,ICU,81,male,DM,hap,,,No_ICUA,,2013-04-03,A05,0.981,1.00,Gold,1,12,discovery,Mars3,1,
+GSM1691865,3191,ICU,57,male,No_DM,hap,,,No_ICUA,,2013-04-03,A06,0.9665,1.00,Gold,0,28,discovery,Mars2,1,
+GSM1691866,3170,ICU,30,male,No_DM,hap,,,No_ICUA,,2013-04-03,A07,0.9711,1.00,Gold,0,28,discovery,Mars1,1,
+GSM1691867,3172,ICU,69,female,No_DM,hap,,,No_ICUA,,2013-04-03,A09,0.9662,1.00,Gold,0,28,discovery,Mars1,1,
+GSM1691868,3165,ICU,61,male,DM,cap,,,No_ICUA,,2013-04-03,A10,0.9612,1.00,Gold,1,7,discovery,Mars1,1,
+GSM1691869,2613163,ICU,81,female,,,,,,,2013-04-03,B03,0.9498,0.50,Bronze,,,,,0,no 28-day outcome in GEO
+GSM1691870,3360,ICU,63,male,,,,,,,2013-04-03,B04,0.9781,0.50,Bronze,,,,,0,no 28-day outcome in GEO
+GSM1691871,3273,ICU,50,female,No_DM,,abdo_s,,No_ICUA,,2013-04-03,B05,0.948,1.00,Gold,0,28,discovery,Mars2,1,
+GSM1691873,2547,ICU,56,male,No_DM,,,,,,2013-04-03,B11,0.9662,1.00,Gold,0,28,discovery,Mars3,1,
+GSM1691874,2651,ICU,32,female,No_DM,cap,,,No_ICUA,,2013-04-03,C01,0.9299,1.00,Gold,0,28,discovery,Mars4,1,
+GSM1691875,2585,ICU,68,male,DM,,,,No_ICUA,,2013-04-03,C02,0.9555,1.00,Gold,0,28,discovery,Mars2,1,
+GSM1691876,1239.1,ICU,69,female,,,,,,,2013-04-03,C04,0.9826,0.50,Bronze,,,,,0,no 28-day outcome in GEO
+GSM1691877,2611,ICU,61,male,No_DM,,abdo_s,,No_ICUA,,2013-04-03,C05,0.9678,1.00,Gold,0,28,discovery,Mars1,1,
+GSM1691878,2765,ICU,59,female,,,,,No_ICUA,,2013-04-03,C06,0.9577,0.75,Silver,0,28,discovery,Mars2,1,
+GSM1691879,2770,ICU,52,male,,,,,No_ICUA,,2013-04-03,C07,0.9724,0.50,Bronze,,,,,0,no 28-day outcome in GEO
+GSM1691880,2694697,ICU,77,male,No_DM,,,,ICUA,,2013-04-03,C09,0.9708,1.00,Gold,1,11,validation,Mars1,1,
+GSM1691881,2920,ICU,77,female,,,,,,,2013-04-03,C10,0.9844,0.50,Bronze,,,,,0,no 28-day outcome in GEO
+GSM1691882,2761,ICU,63,male,DM,hap,,,No_ICUA,,2013-04-03,D01,0.9247,1.00,Gold,0,28,discovery,Mars2,1,
+GSM1691883,2719,ICU,65,male,,,,,No_ICUA,,2013-04-03,D03,0.9537,0.75,Silver,0,28,discovery,Mars4,1,
+GSM1691884,2785,ICU,71,male,DM,,,,,,2013-04-03,D06,0.9741,1.00,Gold,1,0,discovery,Mars3,1,
+GSM1691885,2958,ICU,50,male,DM,,,,No_ICUA,,2013-04-03,D07,0.975,1.00,Gold,0,28,discovery,Mars2,1,
+GSM1691886,1949,ICU,49,female,No_DM,,,A_very_low,,,2013-04-03,D08,0.9317,1.00,Gold,0,28,discovery,Mars4,1,
+GSM1691887,2149,ICU,84,female,,,,,,,2013-04-03,D09,0.9686,0.50,Bronze,,,,,0,no 28-day outcome in GEO
+GSM1691888,2557847,ICU,45,male,,,,,,,2013-04-03,D12,0.9646,0.50,Bronze,,,,,0,no 28-day outcome in GEO
+GSM1691889,1720,ICU,74,male,,,,,,,2013-04-03,E01,0.9637,0.50,Bronze,,,,,0,no 28-day outcome in GEO
+GSM1691890,1726,ICU,63,female,DM,,,,,,2013-04-03,E02,0.9569,1.00,Gold,0,28,discovery,Mars4,1,
+GSM1691891,1485,ICU,71,male,,,,,,,2013-04-03,E04,0.9693,0.50,Bronze,,,,,0,no 28-day outcome in GEO
+GSM1691892,530,ICU,79,male,,,,,,,2013-04-03,E05,0.9646,0.50,Bronze,,,,,0,no 28-day outcome in GEO
+GSM1691893,1507,ICU,68,male,No_DM,hap,,,No_ICUA,,2013-04-03,E08,0.8222,1.00,Bronze,0,28,discovery,Mars1,1,
+GSM1691894,1198,ICU,84,male,,,,,,,2013-04-03,E10,0.9585,0.50,Bronze,,,,,0,no 28-day outcome in GEO
+GSM1691895,2452,ICU,56,female,No_DM,hap,,,No_ICUA,,2013-04-03,E12,0.9653,1.00,Gold,0,28,discovery,Mars3,1,
+GSM1691896,2907847,ICU,68,male,No_DM,hap,,,No_ICUA,,2013-04-03,F04,0.9636,1.00,Gold,0,28,validation,Mars3,1,
+GSM1691897,2999,ICU,71,male,DM,,,,,,2013-04-03,F05,0.9568,1.00,Gold,0,28,discovery,Mars3,1,
+GSM1691898,3049,ICU,71,female,DM,,,,ICUA,Admis_ICUAI,2013-04-03,F06,0.9707,1.00,Gold,0,28,discovery,Mars1,1,
+GSM1691899,806,ICU,66,male,,,,,,,2013-04-03,F07,0.9518,0.50,Bronze,,,,,0,no 28-day outcome in GEO
+GSM1691900,3096,ICU,72,male,No_DM,hap,,A_very_low,No_ICUA,,2013-04-03,F08,0.9485,1.00,Gold,1,13,discovery,Mars3,1,
+GSM1691901,3041,ICU,31,female,No_DM,,abdo_s,B_medium_low,,,2013-04-03,F09,0.9685,1.00,Gold,0,28,discovery,Mars2,1,
+GSM1691902,2904780,ICU,63,male,,,ctrl_GI,,,,2013-04-03,G01,0.9628,0.50,Bronze,,,,,0,no 28-day outcome in GEO
+GSM1691903,3338,ICU,50,male,No_DM,,,C_low,No_ICUA,,2013-04-03,G03,0.9273,1.00,Gold,0,28,discovery,Mars1,1,
+GSM1691904,2638,ICU,48,female,No_DM,,,,,,2013-04-03,G05,0.973,1.00,Gold,0,28,discovery,Mars2,1,
+GSM1691905,2835,ICU,72,male,,,,,,,2013-04-03,G09,0.963,0.75,Silver,0,28,discovery,Mars3,1,
+GSM1691906,2837,ICU,46,male,,,,,,,2013-04-03,G10,0.9676,0.50,Bronze,,,,,0,no 28-day outcome in GEO
+GSM1691907,3334,ICU,71,female,,,,,,,2013-04-03,G11,0.9321,0.50,Bronze,,,,,0,no 28-day outcome in GEO
+GSM1691908,2624,ICU,73,male,,,,,,,2013-04-03,G12,0.9603,0.50,Bronze,,,,,0,no 28-day outcome in GEO
+GSM1691909,2606,ICU,43,female,,,,,No_ICUA,,2013-04-03,H01,0.9589,0.75,Silver,0,28,discovery,Mars2,1,
+GSM1691910,3263.1,ICU,44,female,,,,,,,2013-04-03,H03,0.9757,0.50,Bronze,,,,,0,no 28-day outcome in GEO
+GSM1691911,2814,ICU,45,female,No_DM,hap,,D_normal,No_ICUA,,2013-04-03,H04,0.9623,1.00,Gold,0,28,discovery,Mars3,1,
+GSM1691912,3310,ICU,29,male,,,,,,,2013-04-03,H08,0.9504,0.50,Bronze,,,,,0,no 28-day outcome in GEO
+GSM1691913,2174829,ICU,24,female,,,ctrl_GI,,,,2013-03-05,A01,0.9497,0.50,Bronze,,,,,0,no 28-day outcome in GEO
+GSM1691914,2413593,ICU,86,male,,,,,,,2013-03-05,A06,0.9588,0.50,Bronze,,,,,0,no 28-day outcome in GEO
+GSM1691915,2714354,ICU,68,male,DM,hap,,,No_ICUA,,2013-03-05,A08,0.9626,1.00,Gold,0,28,validation,Mars2,1,
+GSM1691916,650,ICU,30,male,No_DM,,,,No_ICUA,,2013-03-05,A09,0.937,0.75,Bronze,,,,,0,no 28-day outcome in GEO
+GSM1691917,432,ICU,75,male,,,ctrl_GI,,,,2013-03-05,A11,0.969,0.50,Bronze,,,,,0,no 28-day outcome in GEO
+GSM1691918,2342432,ICU,58,female,No_DM,,,,ICUA,,2013-03-05,A12,0.9699,1.00,Gold,0,28,validation,Mars2,1,
+GSM1691919,2338157,ICU,78,male,,,,,,,2013-03-05,B02,0.9758,0.50,Bronze,,,,,0,no 28-day outcome in GEO
+GSM1691920,1310,ICU,73,male,,,ctrl_GI,,,,2013-03-05,B04,0.9685,0.50,Bronze,,,,,0,no 28-day outcome in GEO
+GSM1691921,1519.1,ICU,78,male,,,,,,,2013-03-05,B07,0.9622,0.50,Bronze,,,,,0,no 28-day outcome in GEO
+GSM1691922,2287701,ICU,69,female,No_DM,hap,,,,,2013-03-05,B08,0.9773,0.75,Bronze,,,,,0,no 28-day outcome in GEO
+GSM1691923,2617930,ICU,66,male,DM,hap,,,No_ICUA,,2013-03-05,B09,0.9524,1.00,Gold,0,28,validation,Mars3,1,
+GSM1691924,1959,ICU,59,male,,,,,,,2013-03-05,B11,0.9778,0.50,Bronze,,,,,0,no 28-day outcome in GEO
+GSM1691925,1886,ICU,43,male,No_DM,,,C_low,,,2013-03-05,C01,0.9393,1.00,Gold,0,28,discovery,Mars2,1,
+GSM1691926,2581037,ICU,66,female,,,ctrl_GI,,,,2013-03-05,C03,0.9748,0.50,Bronze,,,,,0,no 28-day outcome in GEO
+GSM1691927,2279394,ICU,75,female,No_DM,,,D_normal,ICUA,Admis_ICUAI,2013-03-05,C05,0.966,1.00,Gold,0,28,validation,Mars2,1,
+GSM1691928,1319,ICU,57,male,No_DM,cap,,,No_ICUA,,2013-03-05,C07,0.9769,1.00,Gold,0,28,discovery,Mars3,1,
+GSM1691929,511,ICU,82,male,,,,,,,2013-03-05,C08,0.9733,0.75,Silver,0,28,discovery,Mars3,1,
+GSM1691930,232,ICU,72,male,,,,,,,2013-03-05,C10,0.9579,0.50,Bronze,,,,,0,no 28-day outcome in GEO
+GSM1691932,1812,ICU,68,female,No_DM,,,C_low,No_ICUA,,2013-03-05,D02,0.9667,1.00,Gold,1,4,discovery,Mars1,1,
+GSM1691933,1668,ICU,48,female,,,,,,,2013-03-05,D03,0.9393,0.75,Silver,0,28,discovery,Mars2,1,
+GSM1691934,1015,ICU,69,male,No_DM,,,,No_ICUA,,2013-03-05,D05,0.9686,1.00,Gold,0,28,discovery,Mars4,1,
+GSM1691935,2045301,ICU,62,male,No_DM,hap,,,No_ICUA,,2013-03-05,D06,0.971,1.00,Gold,1,15,validation,Mars2,1,
+GSM1691936,2680525,ICU,49,male,,,ctrl_GI,,,,2013-03-05,D07,0.9713,0.50,Bronze,,,,,0,no 28-day outcome in GEO
+GSM1691937,1074,ICU,47,male,,,,,No_ICUA,,2013-03-05,D08,0.9482,0.75,Silver,1,7,discovery,Mars1,1,
+GSM1691938,205,ICU,78,female,No_DM,,,C_low,No_ICUA,,2013-03-05,D09,0.9833,1.00,Gold,0,28,discovery,Mars3,1,
+GSM1691939,1881,ICU,60,male,,,,,,,2013-03-05,D10,0.9793,0.50,Bronze,,,,,0,no 28-day outcome in GEO
+GSM1691940,2250766,ICU,59,male,,,,,,,2013-03-05,D12,0.9744,0.50,Bronze,,,,,0,no 28-day outcome in GEO
+GSM1691941,2221,ICU,63,female,No_DM,,,,No_ICUA,,2013-03-05,E01,0.956,1.00,Gold,0,28,discovery,Mars2,1,
+GSM1691942,2022192,ICU,37,male,No_DM,,,,No_ICUA,,2013-03-05,E03,0.9121,1.00,Gold,0,28,validation,Mars1,1,
+GSM1691943,2032249,ICU,68,male,No_DM,,,,,,2013-03-05,E08,0.9591,1.00,Gold,1,12,validation,Mars1,1,
+GSM1691944,603,ICU,59,female,No_DM,hap,,C_low,No_ICUA,,2013-03-05,E09,0.9604,1.00,Gold,0,28,discovery,Mars3,1,
+GSM1691945,2521478,ICU,80,female,,,,,,,2013-03-05,E10,0.9554,0.50,Bronze,,,,,0,no 28-day outcome in GEO
+GSM1691946,2182562,ICU,75,male,,,,,,,2013-03-05,E12,0.9777,0.75,Silver,1,8,validation,Mars3,1,
+GSM1691947,2599073,ICU,63,male,No_DM,,,,,,2013-03-05,F02,0.962,1.00,Gold,0,28,validation,Mars2,1,
+GSM1691948,2063770,ICU,72,female,No_DM,,,,No_ICUA,,2013-03-05,F04,0.9555,0.75,Bronze,,,,,0,no 28-day outcome in GEO
+GSM1691949,2180754,ICU,82,male,DM,,,,,,2013-03-05,F05,0.9558,0.75,Bronze,,,,,0,no 28-day outcome in GEO
+GSM1691950,182,ICU,77,female,,,,,,,2013-03-05,F08,0.9703,0.50,Bronze,,,,,0,no 28-day outcome in GEO
+GSM1691951,2523168,ICU,60,male,,,,,,,2013-03-05,F09,0.9638,0.50,Bronze,,,,,0,no 28-day outcome in GEO
+GSM1691952,2339066,ICU,53,male,,,ctrl_GI,,,,2013-03-05,F10,0.9803,0.50,Bronze,,,,,0,no 28-day outcome in GEO
+GSM1691953,2355070,ICU,53,male,,,,,,,2013-03-05,F11,0.9665,0.75,Silver,0,28,validation,Mars2,1,
+GSM1691954,2091070,ICU,63,male,No_DM,,abdo_s,,,,2013-03-05,F12,0.9744,1.00,Gold,0,28,validation,Mars2,1,
+GSM1691955,2589921,ICU,30,male,,,,,No_ICUA,,2013-03-05,G01,0.9739,0.50,Bronze,,,,,0,no 28-day outcome in GEO
+GSM1691957,2789025,ICU,51,female,,,,,No_ICUA,,2013-03-05,G03,0.974,0.75,Silver,0,28,validation,Mars1,1,
+GSM1691958,2624436,ICU,40,male,,,,,,,2013-03-05,G05,0.9464,0.50,Bronze,,,,,0,no 28-day outcome in GEO
+GSM1691959,2470148,ICU,63,male,No_DM,,abdo_s,,,,2013-03-05,G06,0.9651,1.00,Gold,0,28,validation,Mars2,1,
+GSM1691960,2662486,ICU,65,male,No_DM,,,,No_ICUA,,2013-03-05,G08,0.9694,1.00,Gold,0,28,validation,Mars3,1,
+GSM1691961,1177,ICU,71,female,DM,,,,,,2013-03-05,G10,0.9588,1.00,Gold,0,28,discovery,Mars4,1,
+GSM1691962,1112,ICU,61,male,,,,,No_ICUA,ADMIS_NO_ICUAI,2013-03-05,G11,0.9761,0.75,Silver,0,28,discovery,Mars3,1,
+GSM1691963,2620854,ICU,38,male,,,,,ICUA,,2013-03-05,G12,0.9095,0.75,Silver,0,28,validation,Mars4,1,
+GSM1691964,2198551,ICU,73,male,,,,,,,2013-03-05,H01,0.972,0.50,Bronze,,,,,0,no 28-day outcome in GEO
+GSM1691965,2257043,ICU,53,male,No_DM,hap,,,No_ICUA,,2013-03-05,H02,0.9815,1.00,Gold,1,15,validation,Mars2,1,
+GSM1691966,2039709,ICU,62,male,No_DM,,,,ICUA,,2013-03-05,H03,0.9053,1.00,Gold,1,8,validation,Mars1,1,
+GSM1691967,2398797,ICU,68,male,,,,,,,2013-03-05,H04,0.9594,0.50,Bronze,,,,,0,no 28-day outcome in GEO
+GSM1691968,2623033,ICU,53,female,No_DM,,abdo_s,,No_ICUA,,2013-03-05,H05,0.9507,1.00,Gold,0,28,validation,Mars2,1,
+GSM1691969,2193,ICU,58,female,No_DM,,,B_medium_low,,,2013-03-05,H06,0.9593,1.00,Gold,1,0,discovery,Mars1,1,
+GSM1691970,1383,ICU,82,male,,,,,No_ICUA,,2013-03-05,H10,0.9563,0.75,Silver,0,28,discovery,Mars1,1,
+GSM1691971,1215,ICU,33,female,,,,,,,2013-03-05,H11,0.9575,0.50,Bronze,,,,,0,no 28-day outcome in GEO
+GSM1691972,2688280,ICU,76,male,,,,,,,2013-02-06,A01,0.9625,0.50,Bronze,,,,,0,no 28-day outcome in GEO
+GSM1691973,2754213,ICU,68,male,DM,,,,,,2013-02-06,A03,0.9624,1.00,Gold,0,28,validation,Mars4,1,
+GSM1691974,601.2,ICU,38,male,,,,,,,2013-02-06,A06,0.9754,0.50,Bronze,,,,,0,no 28-day outcome in GEO
+GSM1691975,249.1,ICU,71,female,,,,,,,2013-02-06,A07,0.9486,0.50,Bronze,,,,,0,no 28-day outcome in GEO
+GSM1691976,557.1,ICU,62,male,,,,,,,2013-02-06,A08,0.9721,0.50,Bronze,,,,,0,no 28-day outcome in GEO
+GSM1691977,157,ICU,59,male,No_DM,cap,,,No_ICUA,,2013-02-06,A09,0.9526,1.00,Gold,0,28,discovery,Mars4,1,
+GSM1691978,1020,ICU,78,male,,,,,,,2013-02-06,A10,0.9281,0.50,Bronze,,,,,0,no 28-day outcome in GEO
+GSM1691979,456.2,ICU,32,male,,,,,,,2013-02-06,A11,0.9691,0.50,Bronze,,,,,0,no 28-day outcome in GEO
+GSM1691980,1494,ICU,77,female,DM,,abdo_s,D_normal,No_ICUA,,2013-02-06,A12,0.9666,1.00,Gold,0,28,discovery,Mars1,1,
+GSM1691981,803,ICU,88,male,No_DM,hap,,,,,2013-02-06,B01,0.9689,1.00,Gold,1,0,discovery,Mars1,1,
+GSM1691982,765,ICU,65,male,,,,,,,2013-02-06,B02,0.9535,0.50,Bronze,,,,,0,no 28-day outcome in GEO
+GSM1691983,1373,ICU,73,male,,,,,No_ICUA,,2013-02-06,B03,0.9666,0.75,Silver,0,28,discovery,Mars2,1,
+GSM1691984,1758,ICU,57,female,No_DM,hap,,A_very_low,No_ICUA,,2013-02-06,B04,0.8319,1.00,Bronze,1,2,discovery,Mars1,1,
+GSM1691985,2120,ICU,76,female,,,,,No_ICUA,,2013-02-06,B06,0.9675,0.75,Silver,1,13,discovery,Mars2,1,
+GSM1691986,2016652,ICU,51,female,No_DM,,abdo_s,,No_ICUA,,2013-02-06,B07,0.9766,1.00,Gold,0,28,validation,Mars2,1,
+GSM1691987,878,ICU,71,male,No_DM,hap,,B_medium_low,No_ICUA,,2013-02-06,B08,0.95,1.00,Gold,0,28,discovery,Mars2,1,
+GSM1691988,1320.2,ICU,42,male,,,,,,,2013-02-06,B09,0.9275,0.50,Bronze,,,,,0,no 28-day outcome in GEO
+GSM1691989,2473032,ICU,49,male,No_DM,,,,,,2013-02-06,B10,0.9739,1.00,Gold,0,28,validation,Mars3,1,
+GSM1691990,1858,ICU,49,male,No_DM,,,A_very_low,,,2013-02-06,C01,0.969,1.00,Gold,0,28,discovery,Mars2,1,
+GSM1691991,2215,ICU,79,male,,,,,No_ICUA,,2013-02-06,C02,0.9658,0.75,Silver,1,5,discovery,Mars2,1,
+GSM1691992,2851245,ICU,66,female,DM,,,,No_ICUA,,2013-02-06,C03,0.9618,1.00,Gold,1,14,validation,Mars2,1,
+GSM1691993,2084599,ICU,54,male,No_DM,,,,No_ICUA,,2013-02-06,C06,0.9482,1.00,Gold,0,28,validation,Mars3,1,
+GSM1691994,1499,ICU,72,female,No_DM,,,,No_ICUA,,2013-02-06,C07,0.973,1.00,Gold,0,28,discovery,Mars2,1,
+GSM1691995,1036,ICU,46,female,No_DM,,,B_medium_low,ICUA,,2013-02-06,C10,0.9631,1.00,Gold,0,28,discovery,Mars1,1,
+GSM1691996,1025,ICU,79,male,,,,,,,2013-02-06,C11,0.9552,0.50,Bronze,,,,,0,no 28-day outcome in GEO
+GSM1691997,508,ICU,70,male,DM,,,,ICUA,Admis_ICUAI,2013-02-06,D03,0.9659,1.00,Gold,0,28,discovery,Mars4,1,
+GSM1691998,1023.1,ICU,30,male,,,,,,,2013-02-06,D05,0.9098,0.50,Bronze,,,,,0,no 28-day outcome in GEO
+GSM1691999,600,ICU,81,male,,,,,,,2013-02-06,D08,0.9754,0.50,Bronze,,,,,0,no 28-day outcome in GEO
+GSM1692000,2931751,ICU,74,male,No_DM,,,,No_ICUA,,2013-02-06,D09,0.9471,1.00,Gold,0,28,validation,Mars3,1,
+GSM1692001,1591.1,ICU,29,female,,,,,,,2013-02-06,D11,0.9663,0.50,Bronze,,,,,0,no 28-day outcome in GEO
+GSM1692002,2268424,ICU,60,female,,,,,ICUA,Admis_ICUAI,2013-02-06,E01,0.9414,0.75,Silver,0,28,validation,Mars2,1,
+GSM1692003,2447484,ICU,82,male,,,,,,,2013-02-06,E05,0.9652,0.50,Bronze,,,,,0,no 28-day outcome in GEO
+GSM1692004,378,ICU,41,female,No_DM,,,,,,2013-02-06,E07,0.9527,1.00,Gold,1,6,discovery,Mars4,1,
+GSM1692005,2658341,ICU,63,male,No_DM,hap,,,ICUA,,2013-02-06,E08,0.9565,1.00,Gold,0,28,validation,Mars3,1,
+GSM1692006,2065960,ICU,56,female,No_DM,,,,No_ICUA,,2013-02-06,E09,0.9496,1.00,Gold,1,3,validation,Mars1,1,
+GSM1692007,1768,ICU,74,female,No_DM,hap,abdo_s,,No_ICUA,,2013-02-06,E11,0.9598,1.00,Gold,0,28,discovery,Mars2,1,
+GSM1692008,1617,ICU,72,female,No_DM,,,,No_ICUA,,2013-02-06,E12,0.9811,1.00,Gold,0,28,discovery,Mars1,1,
+GSM1692009,220,ICU,57,female,No_DM,hap,,,No_ICUA,,2013-02-06,F05,0.9585,1.00,Gold,0,28,discovery,Mars2,1,
+GSM1692010,2824982,ICU,60,male,,,,,,,2013-02-06,F07,0.9754,0.50,Bronze,,,,,0,no 28-day outcome in GEO
+GSM1692011,428,ICU,77,male,,,,,,,2013-02-06,F08,0.9676,0.75,Silver,1,2,discovery,Mars1,1,
+GSM1692012,470,ICU,59,female,,,,,No_ICUA,,2013-02-06,F09,0.9748,0.75,Silver,0,28,discovery,Mars1,1,
+GSM1692015,1018,ICU,58,female,,,,,,,2013-02-06,G04,0.959,0.50,Bronze,,,,,0,no 28-day outcome in GEO
+GSM1692016,1057,ICU,48,male,No_DM,,abdo_s,,,,2013-02-06,G05,0.9689,1.00,Gold,0,28,discovery,Mars4,1,
+GSM1692017,689,ICU,66,male,DM,,,,,,2013-02-06,G06,0.959,1.00,Gold,1,2,discovery,Mars2,1,
+GSM1692018,787,ICU,55,female,,,,,,,2013-02-06,G08,0.9674,0.50,Bronze,,,,,0,no 28-day outcome in GEO
+GSM1692019,2121912,ICU,73,male,DM,hap,,,,,2013-02-06,G10,0.9475,1.00,Gold,0,28,validation,Mars1,1,
+GSM1692020,2351284,ICU,20,female,,,,,,,2013-02-06,G12,0.95,0.50,Bronze,,,,,0,no 28-day outcome in GEO
+GSM1692021,2580739,ICU,58,male,,,,,,,2013-02-06,H02,0.9007,0.50,Bronze,,,,,0,no 28-day outcome in GEO
+GSM1692022,2294649,ICU,64,male,DM,,abdo_s,,ICUA,Admis_ICUAI,2013-02-06,H07,0.9586,1.00,Gold,0,28,validation,Mars1,1,
+GSM1692023,2580909,ICU,61,female,No_DM,,,,No_ICUA,,2013-02-06,H08,0.9682,1.00,Gold,0,28,validation,Mars1,1,
+GSM1692024,1137,ICU,37,male,No_DM,,,,No_ICUA,,2013-02-06,H11,0.9431,1.00,Gold,1,3,discovery,Mars1,1,
+GSM1692025,2661717,ICU,76,female,DM,,,B_medium_low,,,2013-03-07,A01,0.9705,1.00,Gold,0,28,validation,Mars3,1,
+GSM1692026,2528836,ICU,45,male,,,,,,,2013-03-07,A03,0.9736,0.50,Bronze,,,,,0,no 28-day outcome in GEO
+GSM1692027,1242,ICU,30,female,,,,,No_ICUA,,2013-03-07,A05,0.9683,0.50,Bronze,,,,,0,no 28-day outcome in GEO
+GSM1692028,2677542,ICU,57,female,,,,,,,2013-03-07,A06,0.9475,0.50,Bronze,,,,,0,no 28-day outcome in GEO
+GSM1692029,2129,ICU,72,male,No_DM,hap,,B_medium_low,,,2013-03-07,A07,0.9701,1.00,Gold,1,3,discovery,Mars1,1,
+GSM1692030,2514152,ICU,62,male,No_DM,,abdo_s,,ICUA,,2013-03-07,A08,0.9652,1.00,Gold,0,28,validation,Mars1,1,
+GSM1692032,2173394,ICU,48,male,,,,,,,2013-03-07,A12,0.9699,0.75,Silver,0,28,validation,Mars1,1,
+GSM1692033,2021263,ICU,65,female,No_DM,,,,No_ICUA,,2013-03-07,B01,0.9422,1.00,Gold,0,28,validation,Mars3,1,
+GSM1692034,2516790,ICU,52,female,No_DM,,,D_normal,No_ICUA,,2013-03-07,B03,0.9673,1.00,Gold,0,28,validation,Mars2,1,
+GSM1692035,472,ICU,48,male,DM,hap,,,No_ICUA,,2013-03-07,B04,0.9726,1.00,Gold,0,28,discovery,Mars3,1,
+GSM1692036,2463541,ICU,68,male,,,,,,,2013-03-07,B06,0.9709,0.50,Bronze,,,,,0,no 28-day outcome in GEO
+GSM1692037,2159951,ICU,86,male,,,,,,,2013-03-07,B07,0.938,0.50,Bronze,,,,,0,no 28-day outcome in GEO
+GSM1692038,449,ICU,56,female,No_DM,,abdo_s,,,,2013-03-07,B11,0.9558,1.00,Gold,1,12,discovery,Mars1,1,
+GSM1692039,2801916,ICU,55,male,,,,,,,2013-03-07,C01,0.9693,0.50,Bronze,,,,,0,no 28-day outcome in GEO
+GSM1692040,2793139,ICU,57,male,No_DM,hap,,,,,2013-03-07,C02,0.9735,1.00,Gold,0,28,validation,Mars4,1,
+GSM1692041,2658343,ICU,55,female,DM,,,,No_ICUA,,2013-03-07,C03,0.9621,1.00,Gold,0,28,validation,Mars3,1,
+GSM1692042,2082299,ICU,48,female,,,,,No_ICUA,,2013-03-07,C04,0.9782,0.75,Silver,0,28,validation,Mars3,1,
+GSM1692043,2826296,ICU,89,female,No_DM,,,,,,2013-03-07,C07,0.9589,1.00,Gold,1,1,validation,Mars1,1,
+GSM1692044,2145922,ICU,76,female,,,,,,,2013-03-07,C10,0.9743,0.50,Bronze,,,,,0,no 28-day outcome in GEO
+GSM1692045,293,ICU,55,male,No_DM,hap,,B_medium_low,No_ICUA,,2013-03-07,C11,0.9546,1.00,Gold,0,28,discovery,Mars2,1,
+GSM1692046,978,ICU,72,female,,,,,,,2013-03-07,C12,0.9465,0.50,Bronze,,,,,0,no 28-day outcome in GEO
+GSM1692047,2807373,ICU,44,female,No_DM,,,,,,2013-03-07,D01,0.9461,1.00,Gold,1,1,validation,Mars2,1,
+GSM1692048,2742876,ICU,71,female,,,,,,,2013-03-07,D02,0.9781,0.50,Bronze,,,,,0,no 28-day outcome in GEO
+GSM1692049,856,ICU,70,male,,,,,,,2013-03-07,D03,0.9421,0.50,Bronze,,,,,0,no 28-day outcome in GEO
+GSM1692050,714,ICU,38,female,No_DM,,abdo_s,,No_ICUA,,2013-03-07,D04,0.9584,1.00,Gold,0,28,discovery,Mars2,1,
+GSM1692051,349,ICU,53,male,No_DM,,,,,,2013-03-07,D07,0.9814,1.00,Gold,0,28,discovery,Mars1,1,
+GSM1692052,1119,ICU,75,female,No_DM,,,,,,2013-03-07,D08,0.948,1.00,Gold,0,28,discovery,Mars2,1,
+GSM1692053,2049327,ICU,75,male,,,ctrl_GI,,,,2013-03-07,D09,0.9374,0.50,Bronze,,,,,0,no 28-day outcome in GEO
+GSM1692054,2357986,ICU,77,male,,,ctrl_GI,,,,2013-03-07,D10,0.98,0.50,Bronze,,,,,0,no 28-day outcome in GEO
+GSM1692055,2079794,ICU,73,female,No_DM,,,D_normal,No_ICUA,,2013-03-07,D11,0.9487,1.00,Gold,0,28,validation,Mars4,1,
+GSM1692056,2430087,ICU,50,female,No_DM,,,,,,2013-03-07,D12,0.9429,1.00,Gold,1,1,validation,Mars1,1,
+GSM1692057,2771367,ICU,64,female,,,,,,,2013-03-07,E02,0.9553,0.50,Bronze,,,,,0,no 28-day outcome in GEO
+GSM1692058,2305248,ICU,50,male,DM,,,D_normal,No_ICUA,,2013-03-07,E05,0.9684,1.00,Gold,0,28,validation,Mars2,1,
+GSM1692059,2045,ICU,71,female,No_DM,,abdo_s,,No_ICUA,,2013-03-07,E06,0.9628,1.00,Gold,0,28,discovery,Mars2,1,
+GSM1692060,2537092,ICU,54,female,No_DM,,,B_medium_low,No_ICUA,,2013-03-07,E09,0.9643,1.00,Gold,0,28,validation,Mars1,1,
+GSM1692061,2512917,ICU,22,male,No_DM,hap,,,No_ICUA,,2013-03-07,E11,0.9615,1.00,Gold,0,28,validation,Mars2,1,
+GSM1692062,2291430,ICU,64,male,,,,,,,2013-03-07,E12,0.9779,0.50,Bronze,,,,,0,no 28-day outcome in GEO
+GSM1692063,165,ICU,70,female,No_DM,cap,,,No_ICUA,,2013-03-07,F01,0.9358,1.00,Gold,0,28,discovery,Mars4,1,
+GSM1692064,1214,ICU,66,male,,,,,No_ICUA,,2013-03-07,F03,0.9094,0.75,Silver,1,6,discovery,Mars1,1,
+GSM1692065,2752239,ICU,66,female,No_DM,,,,,,2013-03-07,F09,0.9364,1.00,Gold,0,28,validation,Mars1,1,
+GSM1692066,181,ICU,49,female,No_DM,,abdo_s,,,,2013-03-07,F10,0.9623,1.00,Gold,0,28,discovery,Mars4,1,
+GSM1692067,2708043,ICU,63,female,,,,,,,2013-03-07,F11,0.9587,0.50,Bronze,,,,,0,no 28-day outcome in GEO
+GSM1692068,2014763,ICU,60,female,DM,,,B_medium_low,,,2013-03-07,G01,0.9342,1.00,Gold,0,28,validation,Mars3,1,
+GSM1692069,2146940,ICU,46,female,,,,,,,2013-03-07,G03,0.9819,0.50,Bronze,,,,,0,no 28-day outcome in GEO
+GSM1692070,2144490,ICU,41,female,,,,,,,2013-03-07,G04,0.9538,0.50,Bronze,,,,,0,no 28-day outcome in GEO
+GSM1692071,2071896,ICU,63,male,DM,,,C_low,,,2013-03-07,G05,0.9722,1.00,Gold,1,1,validation,Mars2,1,
+GSM1692072,2494142,ICU,82,female,,,,,,,2013-03-07,G07,0.9596,0.50,Bronze,,,,,0,no 28-day outcome in GEO
+GSM1692073,2206431,ICU,85,male,No_DM,,,,,,2013-03-07,G09,0.9616,1.00,Gold,0,28,validation,Mars4,1,
+GSM1692074,2339779,ICU,36,female,No_DM,,,,No_ICUA,,2013-03-07,G10,0.9701,1.00,Gold,0,28,validation,Mars2,1,
+GSM1692075,2418573,ICU,82,female,,,ctrl_GI,,,,2013-03-07,G11,0.9669,0.50,Bronze,,,,,0,no 28-day outcome in GEO
+GSM1692077,1114,ICU,67,female,DM,,,,No_ICUA,,2013-03-07,H02,0.9581,1.00,Gold,0,28,discovery,Mars3,1,
+GSM1692078,2222336,ICU,70,male,,,ctrl_GI,,,,2013-03-07,H04,0.9602,0.50,Bronze,,,,,0,no 28-day outcome in GEO
+GSM1692079,2169,ICU,43,male,No_DM,,,,No_ICUA,,2013-03-07,H09,0.9404,1.00,Gold,1,1,discovery,Mars4,1,
+GSM1692080,2150996,ICU,30,male,,,ctrl_GI,,,,2013-03-07,H12,0.9703,0.50,Bronze,,,,,0,no 28-day outcome in GEO
+GSM1692081,2719005,ICU,69,male,,,,,,,2013-03-12,A03,0.9265,0.75,Silver,0,28,validation,Mars1,1,
+GSM1692082,2136,ICU,70,male,,,,,,,2013-03-12,A05,0.9821,0.50,Bronze,,,,,0,no 28-day outcome in GEO
+GSM1692083,2533160,ICU,60,female,,,,,,,2013-03-12,A06,0.9442,0.50,Bronze,,,,,0,no 28-day outcome in GEO
+GSM1692084,2416144,ICU,71,male,No_DM,,abdo_s,,No_ICUA,,2013-03-12,A08,0.966,1.00,Gold,0,28,validation,Mars2,1,
+GSM1692085,2601184,ICU,26,female,DM,,,,,,2013-03-12,A09,0.9396,0.75,Bronze,,,,,0,no 28-day outcome in GEO
+GSM1692086,2177162,ICU,67,male,DM,,abdo_s,,No_ICUA,,2013-03-12,A10,0.9534,1.00,Gold,0,28,validation,Mars2,1,
+GSM1692087,2332187,ICU,70,female,No_DM,,,,,,2013-03-12,A11,0.9784,1.00,Gold,0,28,validation,Mars3,1,
+GSM1692088,2024940,ICU,62,female,,,,,,,2013-03-12,A12,0.9321,0.50,Bronze,,,,,0,no 28-day outcome in GEO
+GSM1692089,2123380,ICU,63,male,No_DM,hap,,,No_ICUA,,2013-03-12,B01,0.9647,1.00,Gold,0,28,validation,Mars3,1,
+GSM1692090,2101232,ICU,63,female,,,,,,,2013-03-12,B02,0.9715,0.50,Bronze,,,,,0,no 28-day outcome in GEO
+GSM1692091,2032265,ICU,68,male,,,,,,,2013-03-12,B03,0.9536,0.50,Bronze,,,,,0,no 28-day outcome in GEO
+GSM1692092,2220,ICU,73,male,DM,,,,No_ICUA,,2013-03-12,B05,0.9392,1.00,Gold,1,5,discovery,Mars3,1,
+GSM1692093,2531925,ICU,63,female,,,,,No_ICUA,,2013-03-12,B06,0.9718,0.75,Silver,0,28,validation,Mars3,1,
+GSM1692094,2788747,ICU,53,male,No_DM,,,,No_ICUA,,2013-03-12,B07,0.973,1.00,Gold,0,28,validation,Mars3,1,
+GSM1692095,2459317,ICU,72,male,,,,,,,2013-03-12,B08,0.9397,0.50,Bronze,,,,,0,no 28-day outcome in GEO
+GSM1692096,2311040,ICU,81,male,No_DM,hap,,,,,2013-03-12,B09,0.9611,1.00,Gold,0,28,validation,Mars2,1,
+GSM1692097,2310586,ICU,75,female,No_DM,,,,No_ICUA,,2013-03-12,B10,0.9741,0.75,Bronze,,,,,0,no 28-day outcome in GEO
+GSM1692098,2920851,ICU,66,male,,,,,,,2013-03-12,B11,0.9619,0.50,Bronze,,,,,0,no 28-day outcome in GEO
+GSM1692099,2328205,ICU,56,male,No_DM,,,D_normal,No_ICUA,,2013-03-12,B12,0.8893,1.00,Bronze,0,28,validation,Mars4,1,
+GSM1692100,2108553,ICU,73,male,DM,,,,No_ICUA,,2013-03-12,C04,0.9678,1.00,Gold,1,5,validation,Mars1,1,
+GSM1692101,2367719,ICU,62,male,,hap,,,,,2013-03-12,C05,0.9403,0.75,Silver,0,28,validation,Mars4,1,
+GSM1692102,2809703,ICU,69,female,,,,,,,2013-03-12,C07,0.9719,0.50,Bronze,,,,,0,no 28-day outcome in GEO
+GSM1692103,312,ICU,63,female,,,,,,,2013-03-12,C08,0.9665,0.75,Silver,0,28,discovery,Mars2,1,
+GSM1692104,2612272,ICU,57,male,,,,,,,2013-03-12,C09,0.9514,0.50,Bronze,,,,,0,no 28-day outcome in GEO
+GSM1692105,2927001,ICU,49,male,,,,,,,2013-03-12,D01,0.9528,0.75,Silver,1,0,validation,Mars1,1,
+GSM1692106,1442.1,ICU,56,female,,,,,,,2013-03-12,D03,0.9811,0.50,Bronze,,,,,0,no 28-day outcome in GEO
+GSM1692107,1012,ICU,70,male,No_DM,,,,,,2013-03-12,D08,0.9716,1.00,Gold,0,28,discovery,Mars2,1,
+GSM1692108,176,ICU,57,male,No_DM,hap,,B_medium_low,No_ICUA,,2013-03-12,D12,0.9616,1.00,Gold,0,28,discovery,Mars2,1,
+GSM1692109,1669,ICU,60,female,DM,,,,No_ICUA,,2013-03-12,E01,0.9502,1.00,Gold,0,28,discovery,Mars1,1,
+GSM1692110,2477033,ICU,41,female,,,ctrl_GI,,,,2013-03-12,E02,0.979,0.50,Bronze,,,,,0,no 28-day outcome in GEO
+GSM1692111,291.1,ICU,74,male,,,,,,,2013-03-12,E03,0.927,0.50,Bronze,,,,,0,no 28-day outcome in GEO
+GSM1692112,1317,ICU,72,female,DM,,,B_medium_low,No_ICUA,,2013-03-12,E04,0.9667,1.00,Gold,1,3,discovery,Mars2,1,
+GSM1692114,2166952,ICU,68,male,No_DM,,abdo_s,,ICUA,,2013-03-12,E11,0.9812,1.00,Gold,1,12,validation,Mars2,1,
+GSM1692115,2933729,ICU,52,female,No_DM,,,,No_ICUA,,2013-03-12,F01,0.9513,1.00,Gold,0,28,validation,Mars1,1,
+GSM1692116,2888440,ICU,62,male,No_DM,,,,,,2013-03-12,F04,0.9546,1.00,Gold,0,28,validation,Mars3,1,
+GSM1692117,950,ICU,64,male,No_DM,,abdo_s,,,,2013-03-12,F05,0.9614,1.00,Gold,0,28,discovery,Mars2,1,
+GSM1692118,1165,ICU,67,male,No_DM,hap,,,No_ICUA,,2013-03-12,F07,0.9656,1.00,Gold,0,28,discovery,Mars4,1,
+GSM1692119,1818,ICU,82,female,No_DM,,abdo_s,,No_ICUA,,2013-03-12,F08,0.951,1.00,Gold,1,6,discovery,Mars1,1,
+GSM1692120,2224,ICU,81,male,,,,,No_ICUA,,2013-03-12,F10,0.9466,0.50,Bronze,,,,,0,no 28-day outcome in GEO
+GSM1692121,2121352,ICU,74,male,,cap,,,,,2013-03-12,F12,0.9721,0.75,Silver,0,28,validation,Mars2,1,
+GSM1692122,1521.1,ICU,26,female,,,,,,Event_ICUAI,2013-03-12,G01,0.917,0.50,Bronze,,,,,0,no 28-day outcome in GEO
+GSM1692123,2895821,ICU,67,male,,,,,No_ICUA,,2013-03-12,G02,0.9194,0.75,Silver,0,28,validation,Mars1,1,
+GSM1692124,1056,ICU,53,male,,,,,,,2013-03-12,G04,0.953,0.75,Silver,1,14,discovery,Mars1,1,
+GSM1692125,2914265,ICU,57,female,,,,,No_ICUA,,2013-03-12,G06,0.9681,0.75,Silver,0,28,validation,Mars3,1,
+GSM1692126,2599222,ICU,82,male,DM,,abdo_s,,,,2013-03-12,G07,0.9643,1.00,Gold,0,28,validation,Mars2,1,
+GSM1692127,2131,ICU,64,female,No_DM,,,,No_ICUA,,2013-03-12,G08,0.9746,1.00,Gold,0,28,discovery,Mars3,1,
+GSM1692128,2008,ICU,61,female,,,,,,,2013-03-12,G09,0.9263,0.50,Bronze,,,,,0,no 28-day outcome in GEO
+GSM1692129,2060742,ICU,50,female,,,,,,,2013-03-12,H01,0.9292,0.50,Bronze,,,,,0,no 28-day outcome in GEO
+GSM1692130,2791031,ICU,66,female,No_DM,,,D_normal,No_ICUA,,2013-03-12,H02,0.973,1.00,Gold,0,28,validation,Mars3,1,
+GSM1692131,2675425,ICU,84,female,,,,,,,2013-03-12,H05,0.9711,0.50,Bronze,,,,,0,no 28-day outcome in GEO
+GSM1692132,2279,ICU,82,male,No_DM,hap,,,,,2013-03-12,H07,0.957,1.00,Gold,0,28,discovery,Mars2,1,
+GSM1692133,2190,ICU,34,male,No_DM,,,,No_ICUA,,2013-03-12,H08,0.9734,1.00,Gold,0,28,discovery,Mars1,1,
+GSM1692135,1234.1,ICU,46,male,,,,,,,2013-02-13,A04,0.9607,0.50,Bronze,,,,,0,no 28-day outcome in GEO
+GSM1692136,2318175,ICU,67,male,No_DM,hap,,,No_ICUA,,2013-02-13,A05,0.9446,1.00,Gold,0,28,validation,Mars1,1,
+GSM1692137,2071168,ICU,64,female,DM,,abdo_s,,No_ICUA,,2013-02-13,A07,0.9452,1.00,Gold,0,28,validation,Mars2,1,
+GSM1692138,2789759,ICU,67,male,No_DM,,abdo_s,,,,2013-02-13,A10,0.9683,1.00,Gold,0,28,validation,Mars2,1,
+GSM1692139,2440861,ICU,49,female,,,,A_very_low,,,2013-02-13,A11,0.9306,0.75,Silver,0,28,validation,Mars2,1,
+GSM1692140,2774321,ICU,71,male,No_DM,,,,No_ICUA,,2013-02-13,B03,0.9369,1.00,Gold,0,28,validation,Mars2,1,
+GSM1692141,2518579,ICU,65,female,No_DM,,,,,,2013-02-13,B05,0.9665,1.00,Gold,0,28,validation,Mars2,1,
+GSM1692142,2392914,ICU,76,male,No_DM,hap,,,,,2013-02-13,B07,0.9556,1.00,Gold,0,28,validation,Mars1,1,
+GSM1692143,2540647,ICU,77,female,No_DM,,,,No_ICUA,,2013-02-13,B08,0.9574,1.00,Gold,0,28,validation,Mars4,1,
+GSM1692144,1474,ICU,67,male,,,,,,,2013-02-13,B09,0.9665,0.75,Silver,1,4,discovery,Mars4,1,
+GSM1692145,1738,ICU,30,female,No_DM,,,,,,2013-02-13,B11,0.9685,1.00,Gold,0,28,discovery,Mars4,1,
+GSM1692146,1906,ICU,71,female,No_DM,,,,No_ICUA,,2013-02-13,B12,0.9566,1.00,Gold,1,3,discovery,Mars2,1,
+GSM1692147,1246,ICU,65,male,,,ctrl_GI,,,,2013-02-13,C03,0.9721,0.50,Bronze,,,,,0,no 28-day outcome in GEO
+GSM1692148,2245,ICU,75,male,,,,,No_ICUA,,2013-02-13,C06,0.9647,0.75,Silver,1,10,discovery,Mars2,1,
+GSM1692149,396,ICU,80,male,,,,,ICUA,Admis_ICUAI,2013-02-13,C10,0.974,0.75,Silver,1,28,discovery,Mars2,1,
+GSM1692150,2254575,ICU,64,female,,,ctrl_GI,,,,2013-02-13,C11,0.9662,0.50,Bronze,,,,,0,no 28-day outcome in GEO
+GSM1692151,2139889,ICU,56,female,,,,,ICUA,,2013-02-13,D01,0.9516,0.75,Silver,1,15,validation,Mars1,1,
+GSM1692152,2452268,ICU,67,male,,,,,,,2013-02-13,D02,0.9736,0.50,Bronze,,,,,0,no 28-day outcome in GEO
+GSM1692153,2245555,ICU,69,male,,,,,,,2013-02-13,D03,0.968,0.75,Silver,0,28,validation,Mars2,1,
+GSM1692154,1106,ICU,80,female,,,,,,,2013-02-13,D04,0.9741,0.50,Bronze,,,,,0,no 28-day outcome in GEO
+GSM1692155,2685636,ICU,77,male,,,ctrl_GI,,,,2013-02-13,D07,0.9624,0.50,Bronze,,,,,0,no 28-day outcome in GEO
+GSM1692156,2712753,ICU,68,female,DM,,,,No_ICUA,,2013-02-13,D09,0.9606,1.00,Gold,0,28,validation,Mars2,1,
+GSM1692157,2469217,ICU,55,male,No_DM,hap,,,No_ICUA,,2013-02-13,E03,0.9632,1.00,Gold,0,28,validation,Mars3,1,
+GSM1692158,262,ICU,36,male,No_DM,,,D_normal,No_ICUA,,2013-02-13,E07,0.9482,1.00,Gold,0,28,discovery,Mars4,1,
+GSM1692159,2276373,ICU,93,female,,,,,,,2013-02-13,E09,0.9583,0.50,Bronze,,,,,0,no 28-day outcome in GEO
+GSM1692160,1388,ICU,48,male,No_DM,,abdo_s,,,,2013-02-13,E12,0.8345,1.00,Bronze,1,2,discovery,Mars1,1,
+GSM1692161,2033946,ICU,46,male,,,,,,,2013-02-13,F01,0.9561,0.50,Bronze,,,,,0,no 28-day outcome in GEO
+GSM1692162,2080847,ICU,69,female,,,,B_medium_low,,,2013-02-13,F02,0.9662,0.75,Silver,0,28,validation,Mars1,1,
+GSM1692163,2286989,ICU,72,female,,,,,,,2013-02-13,F04,0.9664,0.75,Silver,1,18,validation,Mars1,1,
+GSM1692164,1967,ICU,62,male,,,,,,,2013-02-13,F07,0.9618,0.50,Bronze,,,,,0,no 28-day outcome in GEO
+GSM1692165,554,ICU,78,male,DM,hap,,D_normal,No_ICUA,,2013-02-13,F09,0.9704,1.00,Gold,0,28,discovery,Mars1,1,
+GSM1692166,2284122,ICU,40,male,No_DM,,abdo_s,,No_ICUA,,2013-02-13,F10,0.9534,1.00,Gold,0,28,validation,Mars2,1,
+GSM1692167,1192,ICU,81,male,No_DM,hap,,C_low,No_ICUA,,2013-02-13,G01,0.9704,1.00,Gold,0,28,discovery,Mars2,1,
+GSM1692168,299,ICU,43,female,,,,,No_ICUA,,2013-02-13,G04,0.9475,0.75,Silver,0,28,discovery,Mars3,1,
+GSM1692169,2197127,ICU,62,male,No_DM,hap,,,No_ICUA,,2013-02-13,G05,0.9728,1.00,Gold,1,12,validation,Mars3,1,
+GSM1692170,2014,ICU,70,male,DM,,,,No_ICUA,ADMIS_NO_ICUAI,2013-02-13,G08,0.962,1.00,Gold,1,7,discovery,Mars1,1,
+GSM1692171,2537801,ICU,82,male,No_DM,,,,ICUA,Admis_ICUAI,2013-02-13,G10,0.8969,0.75,Bronze,,,,,0,no 28-day outcome in GEO
+GSM1692172,2004,ICU,84,female,DM,hap,,,,,2013-02-13,G12,0.9596,1.00,Gold,0,28,discovery,Mars4,1,
+GSM1692173,1249,ICU,53,male,,,,,ICUA,,2013-02-13,H03,0.9702,0.50,Bronze,,,,,0,no 28-day outcome in GEO
+GSM1692174,638,ICU,63,male,No_DM,,,D_normal,ICUA,,2013-02-13,H06,0.9495,1.00,Gold,0,28,discovery,Mars1,1,
+GSM1692175,1901,ICU,77,male,,,,,,,2013-02-13,H07,0.9687,0.75,Silver,1,4,discovery,Mars3,1,
+GSM1692176,2329914,ICU,42,female,,,ctrl_GI,,,,2013-02-13,H08,0.9558,0.50,Bronze,,,,,0,no 28-day outcome in GEO
+GSM1692177,175,ICU,70,female,No_DM,hap,,,No_ICUA,,2013-02-13,H09,0.9393,0.75,Bronze,,,,,0,no 28-day outcome in GEO
+GSM1692178,394,ICU,91,female,,,,,,,2013-02-13,H10,0.9441,0.50,Bronze,,,,,0,no 28-day outcome in GEO
+GSM1692179,956,ICU,75,male,,,,,,,2013-02-13,H11,0.9695,0.50,Bronze,,,,,0,no 28-day outcome in GEO
+GSM1692180,2479926,ICU,79,female,,,,,,,2013-02-13,H12,0.9451,0.50,Bronze,,,,,0,no 28-day outcome in GEO
+GSM1692181,2577185,ICU,71,male,No_DM,hap,,,,,2013-03-13,A06,0.9549,1.00,Gold,0,28,validation,Mars1,1,
+GSM1692182,2578388,ICU,88,female,DM,,,,No_ICUA,,2013-03-13,A09,0.9745,1.00,Gold,1,3,validation,Mars2,1,
+GSM1692183,2464900,ICU,76,male,,,,,,,2013-03-13,A11,0.9587,0.50,Bronze,,,,,0,no 28-day outcome in GEO
+GSM1692184,2473497,ICU,70,female,No_DM,,,,,,2013-03-13,A12,0.962,1.00,Gold,1,1,validation,Mars2,1,
+GSM1692185,2232,ICU,89,female,,,,,,,2013-03-13,B01,0.9779,0.50,Bronze,,,,,0,no 28-day outcome in GEO
+GSM1692186,2003,ICU,57,male,,,,,No_ICUA,,2013-03-13,B02,0.9336,0.75,Silver,1,2,discovery,Mars2,1,
+GSM1692187,1611,ICU,83,female,No_DM,,,A_very_low,,,2013-03-13,B04,0.9633,1.00,Gold,0,28,discovery,Mars2,1,
+GSM1692188,1481,ICU,25,male,,,,,,,2013-03-13,B06,0.9078,0.75,Silver,0,28,discovery,Mars1,1,
+GSM1692189,880,ICU,57,female,,,,,,,2013-03-13,B11,0.9674,0.50,Bronze,,,,,0,no 28-day outcome in GEO
+GSM1692190,834,ICU,59,female,No_DM,,,,No_ICUA,,2013-03-13,B12,0.9682,1.00,Gold,1,3,discovery,Mars1,1,
+GSM1692191,816,ICU,74,female,,,,,No_ICUA,,2013-03-13,C01,0.956,0.75,Silver,0,28,discovery,Mars2,1,
+GSM1692192,474,ICU,47,female,No_DM,hap,,,No_ICUA,,2013-03-13,C06,0.9656,1.00,Gold,0,28,discovery,Mars2,1,
+GSM1692193,357,ICU,71,male,,,,,No_ICUA,,2013-03-13,C08,0.971,0.75,Silver,0,28,discovery,Mars3,1,
+GSM1692194,304,ICU,70,female,,,,,,,2013-03-13,C09,0.9757,0.50,Bronze,,,,,0,no 28-day outcome in GEO
+GSM1692195,2931020,ICU,74,male,,,ctrl_GI,,,,2013-03-13,C11,0.9727,0.50,Bronze,,,,,0,no 28-day outcome in GEO
+GSM1692196,2465607,ICU,77,male,No_DM,,,,No_ICUA,,2013-03-13,D01,0.9522,1.00,Gold,0,28,validation,Mars2,1,
+GSM1692197,2041720,ICU,60,male,,,,,,,2013-03-13,D02,0.955,0.75,Silver,0,28,validation,Mars3,1,
+GSM1692198,2528458,ICU,54,male,No_DM,,abdo_s,,No_ICUA,,2013-03-13,D03,0.932,1.00,Gold,0,28,validation,Mars2,1,
+GSM1692199,2061687,ICU,71,female,No_DM,hap,,,No_ICUA,,2013-03-13,D05,0.982,1.00,Gold,0,28,validation,Mars2,1,
+GSM1692200,2755346,ICU,38,male,,,,,,,2013-03-13,D10,0.9775,0.50,Bronze,,,,,0,no 28-day outcome in GEO
+GSM1692201,2441106,ICU,66,female,DM,,abdo_s,,No_ICUA,,2013-03-13,D11,0.9482,1.00,Gold,0,28,validation,Mars1,1,
+GSM1692202,2799039,ICU,55,male,,,,B_medium_low,,,2013-03-13,D12,0.9591,0.75,Silver,0,28,validation,Mars3,1,
+GSM1692203,2727912,ICU,51,female,No_DM,hap,,,No_ICUA,,2013-03-13,E01,0.9708,1.00,Gold,0,28,validation,Mars2,1,
+GSM1692204,2855460,ICU,72,male,No_DM,hap,,,No_ICUA,,2013-03-13,E02,0.9773,1.00,Gold,0,28,validation,Mars2,1,
+GSM1692205,2784251,ICU,61,male,No_DM,,,,ICUA,,2013-03-13,E04,0.9142,1.00,Gold,1,23,validation,Mars1,1,
+GSM1692206,2158239,ICU,59,male,,,,,,,2013-03-13,E06,0.9686,0.75,Silver,0,28,validation,Mars3,1,
+GSM1692207,2260580,ICU,41,female,DM,,,,,,2013-03-13,E07,0.948,1.00,Gold,0,28,validation,Mars1,1,
+GSM1692208,2841476,ICU,56,male,,,,,,,2013-03-13,E09,0.9421,0.50,Bronze,,,,,0,no 28-day outcome in GEO
+GSM1692209,2152430,ICU,78,male,No_DM,,,,No_ICUA,ADMIS_NO_ICUAI,2013-03-13,E10,0.9772,1.00,Gold,1,6,validation,Mars3,1,
+GSM1692210,2180867,ICU,59,female,,,,,,,2013-03-13,E12,0.9615,0.50,Bronze,,,,,0,no 28-day outcome in GEO
+GSM1692211,2716785,ICU,75,female,No_DM,,abdo_s,,No_ICUA,,2013-03-13,F02,0.9709,1.00,Gold,1,12,validation,Mars3,1,
+GSM1692212,427,ICU,76,female,No_DM,,,C_low,No_ICUA,,2013-03-13,F03,0.9369,1.00,Gold,0,28,discovery,Mars2,1,
+GSM1692213,2873858,ICU,43,female,No_DM,,,,,,2013-03-13,F04,0.9631,1.00,Gold,0,28,validation,Mars1,1,
+GSM1692214,290,ICU,61,male,,,,,No_ICUA,,2013-03-13,F06,0.9719,0.75,Silver,1,7,discovery,Mars1,1,
+GSM1692215,2939065,ICU,69,male,,,,,,,2013-03-13,F07,0.9527,0.50,Bronze,,,,,0,no 28-day outcome in GEO
+GSM1692216,2805753,ICU,48,male,No_DM,hap,,D_normal,ICUA,,2013-03-13,F10,0.9802,1.00,Gold,0,28,validation,Mars3,1,
+GSM1692217,1251,ICU,32,female,No_DM,,,,,,2013-03-13,G01,0.9408,1.00,Gold,0,28,discovery,Mars2,1,
+GSM1692218,933,ICU,73,female,,,,,,,2013-03-13,G02,0.9697,0.50,Bronze,,,,,0,no 28-day outcome in GEO
+GSM1692219,2401944,ICU,74,male,,,ctrl_GI,,,,2013-03-13,G03,0.9756,0.50,Bronze,,,,,0,no 28-day outcome in GEO
+GSM1692220,2671849,ICU,74,male,DM,,,,No_ICUA,,2013-03-13,G06,0.9564,0.75,Bronze,,,,,0,no 28-day outcome in GEO
+GSM1692221,2610361,ICU,36,female,,,,,No_ICUA,,2013-03-13,G07,0.9574,0.75,Silver,0,28,validation,Mars3,1,
+GSM1692222,2092988,ICU,56,male,No_DM,,,,,,2013-03-13,G08,0.9709,1.00,Gold,0,28,validation,Mars3,1,
+GSM1692223,1551,ICU,53,male,No_DM,hap,,,ICUA,,2013-03-13,G09,0.9648,1.00,Gold,1,14,discovery,Mars2,1,
+GSM1692224,1266,ICU,52,female,No_DM,,,,ICUA,,2013-03-13,G11,0.963,1.00,Gold,1,27,discovery,Mars2,1,
+GSM1692225,2015183,ICU,55,male,,,,,No_ICUA,,2013-03-13,G12,0.9584,0.75,Silver,0,28,validation,Mars3,1,
+GSM1692226,1866,ICU,72,male,No_DM,,,,,,2013-03-13,H01,0.9555,1.00,Gold,0,28,discovery,Mars4,1,
+GSM1692227,2832620,ICU,62,female,,,,,,,2013-03-13,H05,0.9674,0.75,Silver,0,28,validation,Mars3,1,
+GSM1692228,2423724,ICU,83,female,,,,,,,2013-03-13,H08,0.9681,0.75,Silver,0,28,validation,Mars4,1,
+GSM1692229,496,ICU,82,female,,,,,,,2013-03-13,H09,0.9765,0.50,Bronze,,,,,0,no 28-day outcome in GEO
+GSM1692230,1153,ICU,49,female,DM,,,,,,2013-03-14,A01,0.9661,1.00,Gold,0,28,discovery,Mars1,1,
+GSM1692231,2440481,ICU,59,female,,,ctrl_GI,,,,2013-03-14,A03,0.9719,0.50,Bronze,,,,,0,no 28-day outcome in GEO
+GSM1692232,1822,ICU,81,female,No_DM,,,A_very_low,No_ICUA,,2013-03-14,A04,0.9657,1.00,Gold,0,28,discovery,Mars2,1,
+GSM1692233,1797,ICU,61,male,,,,,,,2013-03-14,A05,0.9828,0.50,Bronze,,,,,0,no 28-day outcome in GEO
+GSM1692234,2935946,ICU,65,male,,,,,,,2013-03-14,A06,0.9131,0.50,Bronze,,,,,0,no 28-day outcome in GEO
+GSM1692235,1751,ICU,57,female,No_DM,,,,,,2013-03-14,A07,0.8093,0.75,Bronze,,,,,0,no 28-day outcome in GEO
+GSM1692237,2290568,ICU,75,female,,,,,,Event_ICUAI,2013-03-14,B08,0.9625,0.50,Bronze,,,,,0,no 28-day outcome in GEO
+GSM1692238,2423113,ICU,75,male,No_DM,,abdo_s,,No_ICUA,,2013-03-14,B11,0.9549,1.00,Gold,0,28,validation,Mars1,1,
+GSM1692239,2502387,ICU,64,male,,,ctrl_GI,,,,2013-03-14,B12,0.9621,0.50,Bronze,,,,,0,no 28-day outcome in GEO
+GSM1692240,2647680,ICU,17,female,,,,,,,2013-03-14,C01,0.971,0.75,Silver,0,28,validation,Mars2,1,
+GSM1692241,2555715,ICU,58,male,No_DM,,,,No_ICUA,,2013-03-14,C06,0.9706,1.00,Gold,1,16,validation,Mars2,1,
+GSM1692242,2210219,ICU,66,male,No_DM,,,C_low,No_ICUA,,2013-03-14,C09,0.95,1.00,Gold,0,28,validation,Mars3,1,
+GSM1692243,2396220,ICU,68,male,,,,,,,2013-03-14,C10,0.9509,0.75,Silver,0,28,validation,Mars2,1,
+GSM1692244,1908,ICU,77,male,No_DM,,,D_normal,,,2013-03-14,D01,0.9657,1.00,Gold,1,7,discovery,Mars1,1,
+GSM1692245,2002,ICU,53,male,DM,hap,,,,,2013-03-14,D04,0.9728,1.00,Gold,0,28,discovery,Mars3,1,
+GSM1692246,1624,ICU,23,female,,,,,,,2013-03-14,D05,0.9182,0.50,Bronze,,,,,0,no 28-day outcome in GEO
+GSM1692247,1464,ICU,61,male,,,,,No_ICUA,,2013-03-14,D06,0.964,0.75,Silver,0,28,discovery,Mars3,1,
+GSM1692248,2095177,ICU,73,male,,,ctrl_GI,,,,2013-03-14,D12,0.9742,0.50,Bronze,,,,,0,no 28-day outcome in GEO
+GSM1692249,2254503,ICU,62,male,,,ctrl_GI,,,,2013-03-14,E01,0.9788,0.50,Bronze,,,,,0,no 28-day outcome in GEO
+GSM1692250,2402211,ICU,69,male,No_DM,hap,,,No_ICUA,ADMIS_NO_ICUAI,2013-03-14,E02,0.7787,0.75,Bronze,,,,,0,no 28-day outcome in GEO
+GSM1692251,2394591,ICU,53,female,No_DM,hap,,,No_ICUA,,2013-03-14,E03,0.9387,1.00,Gold,1,3,validation,Mars1,1,
+GSM1692252,1391,ICU,76,male,,,,,,,2013-03-14,E06,0.9746,0.50,Bronze,,,,,0,no 28-day outcome in GEO
+GSM1692253,1437,ICU,73,male,,,,,,,2013-03-14,E07,0.9643,0.50,Bronze,,,,,0,no 28-day outcome in GEO
+GSM1692254,653,ICU,59,male,,,,,,,2013-03-14,F01,0.9461,0.50,Bronze,,,,,0,no 28-day outcome in GEO
+GSM1692255,879,ICU,64,male,No_DM,,abdo_s,D_normal,No_ICUA,,2013-03-14,F02,0.9721,1.00,Gold,0,28,discovery,Mars1,1,
+GSM1692256,2716673,ICU,80,male,,,,,,,2013-03-14,F07,0.9644,0.50,Bronze,,,,,0,no 28-day outcome in GEO
+GSM1692257,2458860,ICU,65,female,,,,,,,2013-03-14,F08,0.9619,0.75,Silver,0,28,validation,Mars2,1,
+GSM1692258,2859676,ICU,35,male,No_DM,hap,,,ICUA,,2013-03-14,F09,0.9471,1.00,Gold,0,28,validation,Mars1,1,
+GSM1692259,160,ICU,27,female,No_DM,hap,,,No_ICUA,,2013-03-14,F10,0.968,1.00,Gold,0,28,discovery,Mars2,1,
+GSM1692260,2646192,ICU,30,male,,,,,,,2013-03-14,G01,0.9657,0.75,Silver,0,28,validation,Mars2,1,
+GSM1692261,2905183,ICU,60,male,No_DM,,abdo_s,,,,2013-03-14,G02,0.9661,1.00,Gold,0,28,validation,Mars2,1,
+GSM1692262,790,ICU,53,male,,,,,,,2013-03-14,G04,0.9698,0.50,Bronze,,,,,0,no 28-day outcome in GEO
+GSM1692263,490,ICU,62,female,,,,,,,2013-03-14,G09,0.978,0.50,Bronze,,,,,0,no 28-day outcome in GEO
+GSM1692264,1628,ICU,63,male,DM,,,,No_ICUA,,2013-03-14,G10,0.965,1.00,Gold,1,10,discovery,Mars2,1,
+GSM1692265,467,ICU,57,female,,,,,,,2013-03-14,H02,0.9663,0.50,Bronze,,,,,0,no 28-day outcome in GEO
+GSM1692266,2630414,ICU,73,female,,hap,,,,,2013-03-14,H05,0.9641,0.75,Silver,0,28,validation,Mars3,1,
+GSM1692267,1603,ICU,54,female,,,,,,,2013-03-14,H06,0.9681,0.50,Bronze,,,,,0,no 28-day outcome in GEO
+GSM1692268,2455809,ICU,62,male,No_DM,hap,,C_low,,,2013-03-14,H07,0.9441,1.00,Gold,1,0,validation,Mars2,1,
+GSM1692269,2858074,ICU,45,male,No_DM,,,,No_ICUA,,2013-03-14,H08,0.9578,1.00,Gold,0,28,validation,Mars4,1,
+GSM1692270,2337626,ICU,55,female,,,ctrl_GI,,,,2013-03-14,H09,0.972,0.50,Bronze,,,,,0,no 28-day outcome in GEO
+GSM1692271,2613389,ICU,76,female,DM,,,,No_ICUA,,2013-03-14,H10,0.9369,1.00,Gold,1,10,validation,Mars1,1,
+GSM1692272,2391003,ICU,74,female,No_DM,hap,,,,,2013-03-19,A01,0.9269,1.00,Gold,0,28,validation,Mars4,1,
+GSM1692273,2768950,ICU,81,male,,,,,,,2013-03-19,A05,0.9788,0.50,Bronze,,,,,0,no 28-day outcome in GEO
+GSM1692274,2788315,ICU,78,female,DM,,,,No_ICUA,,2013-03-19,A06,0.9774,1.00,Gold,0,28,validation,Mars1,1,
+GSM1692275,2152708,ICU,86,male,,,ctrl_GI,,,,2013-03-19,A07,0.9674,0.50,Bronze,,,,,0,no 28-day outcome in GEO
+GSM1692276,2078363,ICU,60,female,,,,,,,2013-03-19,A08,0.9682,0.50,Bronze,,,,,0,no 28-day outcome in GEO
+GSM1692277,2096625,ICU,59,female,No_DM,,,B_medium_low,No_ICUA,,2013-03-19,A09,0.9789,1.00,Gold,0,28,validation,Mars1,1,
+GSM1692278,2210087,ICU,62,male,No_DM,,abdo_s,,No_ICUA,,2013-03-19,A10,0.9645,1.00,Gold,0,28,validation,Mars2,1,
+GSM1692279,2360467,ICU,62,female,DM,,,,No_ICUA,,2013-03-19,A12,0.9561,1.00,Gold,1,2,validation,Mars3,1,
+GSM1692280,2147,ICU,60,male,,,,,,,2013-03-19,B02,0.9747,0.50,Bronze,,,,,0,no 28-day outcome in GEO
+GSM1692281,2106,ICU,68,male,,,ctrl_GI,,,,2013-03-19,B03,0.9506,0.50,Bronze,,,,,0,no 28-day outcome in GEO
+GSM1692282,2027,ICU,62,male,,,,,,,2013-03-19,B04,0.9702,0.50,Bronze,,,,,0,no 28-day outcome in GEO
+GSM1692283,1674,ICU,73,female,,,,,,,2013-03-19,B08,0.9733,0.50,Bronze,,,,,0,no 28-day outcome in GEO
+GSM1692284,1456,ICU,42,female,,,,A_very_low,,,2013-03-19,B10,0.9587,0.75,Silver,0,28,discovery,Mars2,1,
+GSM1692286,855,ICU,40,male,,,,,No_ICUA,,2013-03-19,C05,0.9711,0.75,Silver,0,28,discovery,Mars3,1,
+GSM1692287,775,ICU,51,male,,,,,,,2013-03-19,C06,0.9675,0.50,Bronze,,,,,0,no 28-day outcome in GEO
+GSM1692288,980,ICU,55,female,,,,,,,2013-03-19,C08,0.9573,0.50,Bronze,,,,,0,no 28-day outcome in GEO
+GSM1692289,434,ICU,61,female,,,,,ICUA,,2013-03-19,C09,0.963,0.75,Silver,0,28,discovery,Mars2,1,
+GSM1692290,2647417,ICU,67,female,,,,,,,2013-03-19,D08,0.9679,0.50,Bronze,,,,,0,no 28-day outcome in GEO
+GSM1692291,1992,ICU,68,female,DM,,,,No_ICUA,,2013-03-19,D09,0.9663,1.00,Gold,0,28,discovery,Mars3,1,
+GSM1692292,1532,ICU,70,male,No_DM,,,,,,2013-03-19,D11,0.9696,1.00,Gold,1,0,discovery,Mars3,1,
+GSM1692293,2124,ICU,67,male,,,,,,,2013-03-19,E03,0.9698,0.50,Bronze,,,,,0,no 28-day outcome in GEO
+GSM1692294,2796089,ICU,64,male,No_DM,,,,,,2013-03-19,E05,0.9734,1.00,Gold,0,28,validation,Mars1,1,
+GSM1692295,823,ICU,84,female,,,,,,,2013-03-19,E06,0.9476,0.50,Bronze,,,,,0,no 28-day outcome in GEO
+GSM1692296,398,ICU,32,male,No_DM,,,,,,2013-03-19,F01,0.9346,1.00,Gold,0,28,discovery,Mars2,1,
+GSM1692297,1451.1,ICU,67,male,,,,,,,2013-03-19,F04,0.9795,0.50,Bronze,,,,,0,no 28-day outcome in GEO
+GSM1692298,219,ICU,63,female,DM,,,B_medium_low,No_ICUA,,2013-03-19,F06,0.9649,1.00,Gold,0,28,discovery,Mars3,1,
+GSM1692299,2197135,ICU,69,female,DM,,,D_normal,No_ICUA,,2013-03-19,F09,0.9434,1.00,Gold,1,21,validation,Mars1,1,
+GSM1692300,1598,ICU,41,female,,,,,No_ICUA,,2013-03-19,F10,0.9759,0.75,Silver,0,28,discovery,Mars3,1,
+GSM1692301,516,ICU,67,female,,,,,No_ICUA,,2013-03-19,F12,0.9325,0.75,Silver,0,28,discovery,Mars1,1,
+GSM1692302,1004,ICU,49,female,No_DM,,abdo_s,,No_ICUA,,2013-03-19,G02,0.9611,1.00,Gold,0,28,discovery,Mars2,1,
+GSM1692303,1070,ICU,42,male,,,,,No_ICUA,,2013-03-19,G04,0.9674,0.75,Silver,0,28,discovery,Mars2,1,
+GSM1692304,2138509,ICU,65,male,DM,,,,No_ICUA,,2013-03-19,G05,0.9783,1.00,Gold,0,28,validation,Mars2,1,
+GSM1692305,2690766,ICU,52,male,No_DM,,,C_low,No_ICUA,,2013-03-19,G06,0.9484,1.00,Gold,0,28,validation,Mars1,1,
+GSM1692306,2833571,ICU,73,male,,,,,,,2013-03-19,G07,0.9627,0.50,Bronze,,,,,0,no 28-day outcome in GEO
+GSM1692307,2866838,ICU,73,female,,,,,,,2013-03-19,G09,0.9655,0.50,Bronze,,,,,0,no 28-day outcome in GEO
+GSM1692308,231,ICU,39,female,,,,,No_ICUA,,2013-03-19,G10,0.9176,0.75,Silver,0,28,discovery,Mars2,1,
+GSM1692309,423,ICU,34,female,No_DM,,,C_low,No_ICUA,,2013-03-19,G11,0.9438,1.00,Gold,0,28,discovery,Mars2,1,
+GSM1692310,2193207,ICU,37,male,,,,,,,2013-03-19,H02,0.9539,0.50,Bronze,,,,,0,no 28-day outcome in GEO
+GSM1692311,1772,ICU,73,male,DM,hap,,,,,2013-03-19,H06,0.9725,1.00,Gold,1,11,discovery,Mars3,1,
+GSM1692312,2327068,ICU,73,male,No_DM,,,,,,2013-03-19,H09,0.8887,1.00,Bronze,1,0,validation,Mars1,1,
+GSM1692313,2296377,ICU,77,female,,,,,,,2013-03-19,H10,0.8926,0.50,Bronze,,,,,0,no 28-day outcome in GEO
+GSM1692314,1259,ICU,54,male,,,ctrl_GI,,,,2013-03-20,A04,0.9857,0.50,Bronze,,,,,0,no 28-day outcome in GEO
+GSM1692315,2081,ICU,70,female,,,,,,,2013-03-20,A05,0.9526,0.75,Silver,0,28,discovery,Mars3,1,
+GSM1692316,1707,ICU,19,female,,,,,,,2013-03-20,A07,0.9617,0.75,Silver,1,1,discovery,Mars2,1,
+GSM1692317,2381906,ICU,36,male,No_DM,,,,,,2013-03-20,A09,0.9682,1.00,Gold,0,28,validation,Mars3,1,
+GSM1692318,1579,ICU,62,male,No_DM,,,B_medium_low,,,2013-03-20,A10,0.9641,1.00,Gold,1,1,discovery,Mars2,1,
+GSM1692319,2593636,ICU,64,male,,,,,,,2013-03-20,B01,0.9605,0.75,Silver,0,28,validation,Mars2,1,
+GSM1692320,2130323,ICU,32,male,,,,,,,2013-03-20,B03,0.9684,0.50,Bronze,,,,,0,no 28-day outcome in GEO
+GSM1692321,2559525,ICU,68,male,,,ctrl_GI,,,,2013-03-20,B04,0.9645,0.50,Bronze,,,,,0,no 28-day outcome in GEO
+GSM1692322,797,ICU,62,female,No_DM,,,,ICUA,Admis_ICUAI,2013-03-20,B05,0.9371,1.00,Gold,0,28,discovery,Mars1,1,
+GSM1692323,2801914,ICU,73,female,,,,,,,2013-03-20,B07,0.9766,0.50,Bronze,,,,,0,no 28-day outcome in GEO
+GSM1692324,1152,ICU,73,female,,,,,,,2013-03-20,B08,0.9832,0.50,Bronze,,,,,0,no 28-day outcome in GEO
+GSM1692326,1326,ICU,72,male,No_DM,hap,,C_low,ICUA,,2013-03-20,B12,0.9574,1.00,Gold,1,25,discovery,Mars4,1,
+GSM1692327,1590,ICU,78,male,DM,,,,No_ICUA,,2013-03-20,C06,0.9434,1.00,Gold,0,28,discovery,Mars4,1,
+GSM1692328,2316460,ICU,73,male,,,ctrl_GI,,,,2013-03-20,C09,0.9751,0.50,Bronze,,,,,0,no 28-day outcome in GEO
+GSM1692329,2897831,ICU,82,female,No_DM,,abdo_s,,No_ICUA,,2013-03-20,C12,0.9457,1.00,Gold,1,5,validation,Mars2,1,
+GSM1692330,2060094,ICU,57,male,DM,,abdo_s,B_medium_low,No_ICUA,,2013-03-20,D06,0.9697,1.00,Gold,0,28,validation,Mars1,1,
+GSM1692331,2025044,ICU,68,male,,,,,,,2013-03-20,D08,0.9586,0.75,Silver,1,2,validation,Mars4,1,
+GSM1692332,2348773,ICU,63,female,No_DM,,,,No_ICUA,,2013-03-20,D09,0.9543,1.00,Gold,0,28,validation,Mars2,1,
+GSM1692333,1382,ICU,79,male,,,,,,,2013-03-20,D12,0.9585,0.50,Bronze,,,,,0,no 28-day outcome in GEO
+GSM1692334,364,ICU,53,male,No_DM,hap,,,No_ICUA,,2013-03-20,E01,0.9728,0.75,Bronze,,,,,0,no 28-day outcome in GEO
+GSM1692335,2148523,ICU,61,male,,cap,,,,,2013-03-20,E02,0.9154,0.75,Silver,0,28,validation,Mars1,1,
+GSM1692336,2919602,ICU,68,male,DM,,,,,,2013-03-20,E03,0.964,1.00,Gold,1,1,validation,Mars1,1,
+GSM1692337,2666347,ICU,66,female,No_DM,,abdo_s,,No_ICUA,,2013-03-20,E04,0.9645,1.00,Gold,0,28,validation,Mars2,1,
+GSM1692338,866,ICU,53,female,,,,,No_ICUA,,2013-03-20,E05,0.8753,0.75,Bronze,0,28,discovery,Mars3,1,
+GSM1692339,1861,ICU,78,male,,,,,,,2013-03-20,E06,0.9505,0.50,Bronze,,,,,0,no 28-day outcome in GEO
+GSM1692340,663,ICU,59,male,No_DM,,,,No_ICUA,,2013-03-20,E09,0.9759,1.00,Gold,1,2,discovery,Mars3,1,
+GSM1692341,2111361,ICU,61,male,,,,,,,2013-03-20,E11,0.9794,0.50,Bronze,,,,,0,no 28-day outcome in GEO
+GSM1692342,2403959,ICU,48,male,,,,,,,2013-03-20,E12,0.9778,0.50,Bronze,,,,,0,no 28-day outcome in GEO
+GSM1692343,922,ICU,64,male,No_DM,,,D_normal,No_ICUA,,2013-03-20,F05,0.96,1.00,Gold,1,8,discovery,Mars2,1,
+GSM1692344,1202,ICU,67,male,,,,,,,2013-03-20,F07,0.9727,0.50,Bronze,,,,,0,no 28-day outcome in GEO
+GSM1692345,2688463,ICU,46,female,,,,,,,2013-03-20,F08,0.9673,0.50,Bronze,,,,,0,no 28-day outcome in GEO
+GSM1692346,2368.1,ICU,73,male,,,,,,,2013-03-20,G04,0.9677,0.50,Bronze,,,,,0,no 28-day outcome in GEO
+GSM1692347,2367,ICU,67,female,No_DM,,,,No_ICUA,,2013-03-20,G06,0.9652,1.00,Gold,0,28,discovery,Mars1,1,
+GSM1692348,2363,ICU,74,female,No_DM,,,C_low,No_ICUA,,2013-03-20,G07,0.9555,1.00,Gold,0,28,discovery,Mars1,1,
+GSM1692349,2358,ICU,70,female,,,,,,,2013-03-20,G08,0.9516,0.50,Bronze,,,,,0,no 28-day outcome in GEO
+GSM1692350,2345,ICU,67,male,DM,,,,,,2013-03-20,G11,0.9196,1.00,Gold,1,0,discovery,Mars1,1,
+GSM1692352,2319,ICU,60,female,No_DM,hap,,B_medium_low,No_ICUA,,2013-03-20,H03,0.9095,1.00,Gold,1,8,discovery,Mars3,1,
+GSM1692353,882.1,ICU,47,male,,,,,,Event_ICUAI,2013-03-20,H04,0.8562,0.50,Bronze,,,,,0,no 28-day outcome in GEO
+GSM1692354,2233720,ICU,55,male,,,,,,,2013-03-20,H05,0.8689,0.50,Bronze,,,,,0,no 28-day outcome in GEO
+GSM1692355,2306,ICU,64,male,DM,,,,,,2013-03-20,H06,0.9661,1.00,Gold,0,28,discovery,Mars3,1,
+GSM1692356,2304,ICU,78,male,No_DM,,,,,,2013-03-20,H07,0.9688,1.00,Gold,0,28,discovery,Mars2,1,
+GSM1692357,2302,ICU,80,male,No_DM,,,,No_ICUA,,2013-03-20,H08,0.9654,1.00,Gold,0,28,discovery,Mars2,1,
+GSM1692358,2296,ICU,70,female,,,,,,,2013-03-20,H09,0.9323,0.50,Bronze,,,,,0,no 28-day outcome in GEO
+GSM1692359,2272.1,ICU,84,female,,,,,,,2013-03-20,H11,0.9736,0.50,Bronze,,,,,0,no 28-day outcome in GEO
+GSM1692360,2291,ICU,45,female,No_DM,,,,No_ICUA,,2013-03-21,A02,0.9516,1.00,Gold,0,28,discovery,Mars4,1,
+GSM1692361,2259,ICU,58,male,No_DM,,,,No_ICUA,,2013-03-21,A05,0.965,1.00,Gold,0,28,discovery,Mars2,1,
+GSM1692362,2229,ICU,65,female,No_DM,,abdo_s,,,,2013-03-21,A06,0.9736,1.00,Gold,0,28,discovery,Mars2,1,
+GSM1692363,2201.2,ICU,70,male,,,,,,,2013-03-21,A08,0.9325,0.50,Bronze,,,,,0,no 28-day outcome in GEO
+GSM1692364,2118,ICU,42,female,No_DM,,abdo_s,,ICUA,Admis_ICUAI,2013-03-21,B01,0.9455,1.00,Gold,0,28,discovery,Mars2,1,
+GSM1692365,2035,ICU,67,female,,,,,,,2013-03-21,B02,0.9624,0.50,Bronze,,,,,0,no 28-day outcome in GEO
+GSM1692366,2009,ICU,52,male,No_DM,hap,,B_medium_low,ICUA,Admis_ICUAI,2013-03-21,B05,0.9305,1.00,Gold,0,28,discovery,Mars3,1,
+GSM1692367,1939,ICU,64,male,,,,,,,2013-03-21,B06,0.9823,0.50,Bronze,,,,,0,no 28-day outcome in GEO
+GSM1692368,1645.1,ICU,66,male,,,,,,,2013-03-21,B08,0.9768,0.50,Bronze,,,,,0,no 28-day outcome in GEO
+GSM1692369,1318,ICU,56,male,,,,B_medium_low,No_ICUA,,2013-03-21,B11,0.9699,0.75,Silver,1,15,discovery,Mars1,1,
+GSM1692370,1176,ICU,75,male,,,,,,,2013-03-21,B12,0.9698,0.50,Bronze,,,,,0,no 28-day outcome in GEO
+GSM1692371,1124,ICU,55,male,,,,,,,2013-03-21,C01,0.9614,0.50,Bronze,,,,,0,no 28-day outcome in GEO
+GSM1692372,651,ICU,65,male,No_DM,,abdo_s,C_low,ICUA,,2013-03-21,C03,0.9525,0.75,Bronze,,,,,0,no 28-day outcome in GEO
+GSM1692373,221,ICU,71,male,DM,,,,No_ICUA,,2013-03-21,C06,0.9631,1.00,Gold,0,28,discovery,Mars1,1,
+GSM1692374,2656,ICU,61,male,No_DM,,,,No_ICUA,,2013-03-21,C07,0.9728,1.00,Gold,0,28,discovery,Mars2,1,
+GSM1692375,2657,ICU,41,female,No_DM,,,,No_ICUA,,2013-03-21,C09,0.9377,1.00,Gold,0,28,discovery,Mars4,1,
+GSM1692376,2643,ICU,55,male,No_DM,,,C_low,No_ICUA,,2013-03-21,C10,0.9719,1.00,Gold,1,11,discovery,Mars3,1,
+GSM1692377,2639,ICU,61,male,,,,,,,2013-03-21,C11,0.9737,0.75,Silver,1,2,discovery,Mars3,1,
+GSM1692378,2613,ICU,24,female,,,,,,,2013-03-21,C12,0.9812,0.50,Bronze,,,,,0,no 28-day outcome in GEO
+GSM1692379,2622,ICU,73,female,No_DM,,abdo_s,,,,2013-03-21,D02,0.9472,1.00,Gold,0,5,discovery,Mars2,1,
+GSM1692380,2632,ICU,76,male,,,,,,,2013-03-21,D03,0.9679,0.50,Bronze,,,,,0,no 28-day outcome in GEO
+GSM1692381,2569,ICU,59,male,No_DM,,,,,,2013-03-21,D06,0.972,1.00,Gold,0,28,discovery,Mars2,1,
+GSM1692382,2583,ICU,73,female,,,,,No_ICUA,,2013-03-21,D07,0.9499,0.50,Bronze,,,,,0,no 28-day outcome in GEO
+GSM1692383,2608,ICU,37,male,,hap,,,,,2013-03-21,D08,0.9703,0.50,Bronze,,,,,0,no 28-day outcome in GEO
+GSM1692384,2562,ICU,79,male,DM,,abdo_s,,,,2013-03-21,D09,0.9677,1.00,Gold,0,28,discovery,Mars1,1,
+GSM1692385,2505.1,ICU,69,male,,,,,,,2013-03-21,D12,0.9627,0.50,Bronze,,,,,0,no 28-day outcome in GEO
+GSM1692386,2532,ICU,58,male,No_DM,hap,,D_normal,No_ICUA,,2013-03-21,E03,0.9739,1.00,Gold,0,28,discovery,Mars2,1,
+GSM1692387,2526,ICU,47,female,No_DM,hap,,,No_ICUA,,2013-03-21,E04,0.9656,1.00,Gold,1,1,discovery,Mars1,1,
+GSM1692388,2514,ICU,68,male,DM,,abdo_s,,No_ICUA,,2013-03-21,E06,0.9592,1.00,Gold,1,18,discovery,Mars2,1,
+GSM1692389,2507,ICU,45,male,,,,,,,2013-03-21,E07,0.9491,0.75,Silver,1,19,discovery,Mars3,1,
+GSM1692390,2472.2,ICU,60,female,,,,,,,2013-03-21,E10,0.9469,0.50,Bronze,,,,,0,no 28-day outcome in GEO
+GSM1692391,2491,ICU,57,female,No_DM,,,,No_ICUA,,2013-03-21,E11,0.9432,1.00,Gold,0,28,discovery,Mars2,1,
+GSM1692392,2029,ICU,67,male,No_DM,hap,,,ICUA,Admis_ICUAI,2013-03-21,F03,0.9783,1.00,Gold,0,28,discovery,Mars3,1,
+GSM1692393,2465,ICU,56,female,,,,,No_ICUA,,2013-03-21,F05,0.9376,0.75,Silver,0,28,discovery,Mars3,1,
+GSM1692394,2461,ICU,69,female,,,,,,,2013-03-21,F06,0.9521,0.75,Silver,1,1,discovery,Mars1,1,
+GSM1692395,2455,ICU,60,male,,,,,,,2013-03-21,F07,0.9708,0.75,Silver,0,28,discovery,Mars1,1,
+GSM1692396,2448,ICU,54,male,,,,,No_ICUA,,2013-03-21,F08,0.9704,0.50,Bronze,,,,,0,no 28-day outcome in GEO
+GSM1692397,2444,ICU,73,male,No_DM,,abdo_s,,,,2013-03-21,F09,0.9792,1.00,Gold,0,28,discovery,Mars2,1,
+GSM1692398,2442,ICU,30,male,,,,,,,2013-03-21,F10,0.971,0.50,Bronze,,,,,0,no 28-day outcome in GEO
+GSM1692399,2407,ICU,55,female,,hap,,,,,2013-03-21,F12,0.9628,0.75,Silver,0,28,discovery,Mars1,1,
+GSM1692400,2409,ICU,24,male,No_DM,,,B_medium_low,No_ICUA,,2013-03-21,G01,0.9674,1.00,Gold,0,28,discovery,Mars3,1,
+GSM1692402,2392,ICU,62,male,,,,,,,2013-03-21,G04,0.9635,0.50,Bronze,,,,,0,no 28-day outcome in GEO
+GSM1692404,2950,ICU,54,male,No_DM,,,,No_ICUA,,2013-03-21,G09,0.9631,1.00,Gold,0,28,discovery,Mars2,1,
+GSM1692405,2951,ICU,55,male,,,,,,,2013-03-21,G10,0.9685,0.50,Bronze,,,,,0,no 28-day outcome in GEO
+GSM1692406,2937,ICU,59,male,No_DM,,,C_low,No_ICUA,,2013-03-21,G11,0.9687,1.00,Gold,0,28,discovery,Mars3,1,
+GSM1692407,2947,ICU,25,male,No_DM,,,,,,2013-03-21,G12,0.9753,1.00,Gold,0,28,discovery,Mars3,1,
+GSM1692408,2921,ICU,56,female,DM,,,C_low,ICUA,,2013-03-21,H02,0.9575,1.00,Gold,0,28,discovery,Mars2,1,
+GSM1692409,2963.1,ICU,22,male,,,,,,,2013-03-21,H03,0.9411,0.50,Bronze,,,,,0,no 28-day outcome in GEO
+GSM1692410,2977,ICU,62,female,No_DM,hap,,,No_ICUA,,2013-03-21,H04,0.9145,1.00,Gold,0,28,discovery,Mars1,1,
+GSM1692411,2978,ICU,67,male,,,ctrl_GI,,,,2013-03-21,H06,0.9555,0.50,Bronze,,,,,0,no 28-day outcome in GEO
+GSM1692412,2995,ICU,71,female,No_DM,,abdo_s,,No_ICUA,,2013-03-21,H07,0.9498,1.00,Gold,0,28,discovery,Mars1,1,
+GSM1692413,2994,ICU,60,female,No_DM,hap,,,No_ICUA,,2013-03-21,H08,0.9556,1.00,Gold,0,28,discovery,Mars4,1,
+GSM1692414,2919,ICU,39,female,,,,,No_ICUA,,2013-03-21,H09,0.9595,0.75,Silver,0,28,discovery,Mars1,1,
+GSM1692415,2805,ICU,26,male,No_DM,,,,No_ICUA,,2013-03-21,H11,0.956,1.00,Gold,0,28,discovery,Mars2,1,
+GSM1692416,2435440,ICU,40,female,No_DM,,abdo_s,,,,2013-01-22,A01,0.9685,1.00,Gold,0,28,validation,Mars1,1,
+GSM1692417,2068847,ICU,68,male,,,,,,,2013-01-22,A06,0.9653,0.75,Silver,0,28,validation,Mars1,1,
+GSM1692418,2168597,ICU,66,male,,,,,,,2013-01-22,A09,0.9535,0.75,Silver,0,28,validation,Mars4,1,
+GSM1692419,2412748,ICU,48,male,,,ctrl_GI,,,,2013-01-22,A10,0.9487,0.50,Bronze,,,,,0,no 28-day outcome in GEO
+GSM1692420,2273467,ICU,72,female,DM,hap,,,ICUA,,2013-01-22,A12,0.9621,1.00,Gold,0,28,validation,Mars3,1,
+GSM1692421,2047406,ICU,56,male,,,,,No_ICUA,,2013-01-22,B01,0.9555,0.75,Silver,0,28,validation,Mars4,1,
+GSM1692422,2143801,ICU,75,female,No_DM,,,,No_ICUA,,2013-01-22,B02,0.9777,1.00,Gold,0,28,validation,Mars1,1,
+GSM1692423,2063277,ICU,62,female,No_DM,,,,ICUA,,2013-01-22,B04,0.9673,1.00,Gold,0,28,validation,Mars3,1,
+GSM1692424,966,ICU,68,male,No_DM,,abdo_s,,,,2013-01-22,B05,0.9591,1.00,Gold,0,28,discovery,Mars2,1,
+GSM1692425,774,ICU,82,male,No_DM,,,,No_ICUA,,2013-01-22,B07,0.9339,1.00,Gold,0,28,discovery,Mars4,1,
+GSM1692426,2624919,ICU,36,male,,,,,,,2013-01-22,B09,0.9658,0.50,Bronze,,,,,0,no 28-day outcome in GEO
+GSM1692427,2739656,ICU,60,male,DM,hap,,,No_ICUA,,2013-01-22,B10,0.946,1.00,Gold,0,28,validation,Mars1,1,
+GSM1692428,2062249,ICU,79,female,,,,,,,2013-01-22,C01,0.9753,0.75,Silver,0,28,validation,Mars2,1,
+GSM1692429,2295511,ICU,18,male,No_DM,hap,,,No_ICUA,,2013-01-22,C02,0.9639,1.00,Gold,0,28,validation,Mars1,1,
+GSM1692430,1550,ICU,72,female,DM,hap,,,No_ICUA,,2013-01-22,C05,0.9716,1.00,Gold,0,28,discovery,Mars1,1,
+GSM1692431,1692,ICU,78,female,,,,,,,2013-01-22,C07,0.9745,0.50,Bronze,,,,,0,no 28-day outcome in GEO
+GSM1692432,1438,ICU,68,male,,,,,,,2013-01-22,C10,0.9724,0.50,Bronze,,,,,0,no 28-day outcome in GEO
+GSM1692433,2219502,ICU,48,female,,,,,,,2013-01-22,C12,0.945,0.50,Bronze,,,,,0,no 28-day outcome in GEO
+GSM1692434,2308334,ICU,21,female,,,,,,,2013-01-22,D01,0.954,0.50,Bronze,,,,,0,no 28-day outcome in GEO
+GSM1692435,2641079,ICU,67,male,,,,,ICUA,,2013-01-22,D04,0.9699,0.50,Bronze,,,,,0,no 28-day outcome in GEO
+GSM1692436,2512541,ICU,73,male,No_DM,,,,No_ICUA,,2013-01-22,D05,0.9386,1.00,Gold,0,28,validation,Mars3,1,
+GSM1692437,2453929,ICU,35,female,No_DM,,,,No_ICUA,,2013-01-22,D08,0.9561,1.00,Gold,0,28,validation,Mars3,1,
+GSM1692438,893,ICU,69,male,No_DM,,,,No_ICUA,ADMIS_NO_ICUAI,2013-01-22,D10,0.9799,1.00,Gold,0,28,discovery,Mars2,1,
+GSM1692439,2091020,ICU,63,male,No_DM,,,,No_ICUA,,2013-01-22,D11,0.9726,1.00,Gold,0,28,validation,Mars3,1,
+GSM1692440,2512233,ICU,80,male,No_DM,,,,No_ICUA,,2013-01-22,E05,0.9634,1.00,Gold,0,28,validation,Mars2,1,
+GSM1692441,1151,ICU,77,female,No_DM,,,,No_ICUA,,2013-01-22,E06,0.963,1.00,Gold,0,28,discovery,Mars1,1,
+GSM1692442,1311,ICU,46,female,,,ctrl_GI,,,,2013-01-22,E08,0.9753,0.50,Bronze,,,,,0,no 28-day outcome in GEO
+GSM1692443,2337277,ICU,59,female,No_DM,hap,,,No_ICUA,,2013-01-22,F06,0.927,1.00,Gold,1,8,validation,Mars2,1,
+GSM1692444,2329751,ICU,81,male,,,,,,,2013-01-22,F07,0.9545,0.50,Bronze,,,,,0,no 28-day outcome in GEO
+GSM1692445,2330273,ICU,74,male,DM,,,,No_ICUA,,2013-01-22,F08,0.9762,1.00,Gold,0,28,validation,Mars2,1,
+GSM1692446,2661366,ICU,71,male,No_DM,,,,No_ICUA,,2013-01-22,G01,0.9085,1.00,Gold,0,28,validation,Mars1,1,
+GSM1692447,2506984,ICU,31,female,,,,,,,2013-01-22,G04,0.9656,0.50,Bronze,,,,,0,no 28-day outcome in GEO
+GSM1692448,2206690,ICU,76,male,No_DM,,,,ICUA,,2013-01-22,G10,0.9465,1.00,Gold,0,28,validation,Mars2,1,
+GSM1692449,1708,ICU,78,female,DM,,,,No_ICUA,,2013-01-22,H01,0.9629,0.75,Bronze,,,,,0,no 28-day outcome in GEO
+GSM1692450,2712378,ICU,79,female,,,,,,,2013-01-22,H04,0.9613,0.50,Bronze,,,,,0,no 28-day outcome in GEO
+GSM1692451,2417828,ICU,46,male,,,,,,,2013-01-22,H05,0.9759,0.50,Bronze,,,,,0,no 28-day outcome in GEO
+GSM1692452,2079564,ICU,84,male,No_DM,hap,,,ICUA,Admis_ICUAI,2013-01-22,H08,0.9767,1.00,Gold,0,28,validation,Mars1,1,
+GSM1692453,2095014,ICU,60,male,No_DM,,abdo_s,C_low,ICUA,,2013-01-22,H09,0.8905,1.00,Bronze,0,28,validation,Mars1,1,
+GSM1692454,2750964,ICU,71,female,No_DM,,,C_low,No_ICUA,,2013-01-22,H11,0.9677,1.00,Gold,1,17,validation,Mars2,1,
+GSM1692455,2792222,ICU,83,female,No_DM,hap,,,No_ICUA,,2013-03-26,A03,0.9762,1.00,Gold,0,28,validation,Mars3,1,
+GSM1692456,2077005,ICU,59,male,No_DM,,,D_normal,No_ICUA,,2013-03-26,B02,0.9365,0.75,Bronze,,,,,0,no 28-day outcome in GEO
+GSM1692457,2542360,ICU,59,female,,,ctrl_GI,,,,2013-03-26,B08,0.9662,0.50,Bronze,,,,,0,no 28-day outcome in GEO
+GSM1692458,2542638,ICU,78,female,No_DM,,,,No_ICUA,,2013-03-26,C02,0.9148,1.00,Gold,0,28,validation,Mars1,1,
+GSM1692459,2972,ICU,56,female,No_DM,,abdo_s,A_very_low,ICUA,,2013-03-26,C06,0.9561,1.00,Gold,1,20,discovery,Mars1,1,
+GSM1692460,2795,ICU,73,male,,,,,,,2013-03-26,D05,0.9821,0.50,Bronze,,,,,0,no 28-day outcome in GEO
+GSM1692461,2741,ICU,42,male,,,,,No_ICUA,,2013-03-26,D06,0.9766,0.75,Silver,0,28,discovery,Mars3,1,
+GSM1692462,2717.1,ICU,77,male,,,,,,,2013-03-26,E03,0.9774,0.50,Bronze,,,,,0,no 28-day outcome in GEO
+GSM1692463,2716,ICU,56,female,,,ctrl_GI,,,,2013-03-26,E04,0.9657,0.50,Bronze,,,,,0,no 28-day outcome in GEO
+GSM1692465,2973085,ICU,73,male,,,,,No_ICUA,,2013-03-26,F02,0.9585,0.75,Silver,0,28,validation,Mars2,1,
+GSM1692466,2042,ICU,34,male,,,,,No_ICUA,,2013-03-26,F04,0.9645,0.75,Silver,0,28,discovery,Mars3,1,
+GSM1692467,3073,ICU,59,male,No_DM,,,B_medium_low,,,2013-03-26,F07,0.9425,1.00,Gold,1,1,discovery,Mars2,1,
+GSM1692468,3016,ICU,54,male,,,ctrl_GI,,,,2013-03-26,G04,0.9677,0.50,Bronze,,,,,0,no 28-day outcome in GEO
+GSM1692469,3018,ICU,65,female,,,,,,,2013-03-26,G06,0.9664,0.50,Bronze,,,,,0,no 28-day outcome in GEO
+GSM1692470,3128,ICU,52,male,,,,,,,2013-03-26,H06,0.9755,0.50,Bronze,,,,,0,no 28-day outcome in GEO
+GSM1692471,3128.1,ICU,52,male,,,,,,,2013-03-27,A02,0.9566,0.50,Bronze,,,,,0,no 28-day outcome in GEO
+GSM1692472,2887.1,ICU,32,male,,,,,,,2013-03-27,A05,0.9431,0.50,Bronze,,,,,0,no 28-day outcome in GEO
+GSM1692473,2914,ICU,71,female,,,,,,,2013-03-27,A07,0.9819,0.50,Bronze,,,,,0,no 28-day outcome in GEO
+GSM1692474,2915,ICU,70,male,,,ctrl_GI,,,,2013-03-27,A09,0.973,0.50,Bronze,,,,,0,no 28-day outcome in GEO
+GSM1692475,329,ICU,54,female,,,ctrl_GI,,,,2013-03-27,A12,0.9707,0.50,Bronze,,,,,0,no 28-day outcome in GEO
+GSM1692476,2890,ICU,65,female,,,ctrl_GI,,,,2013-03-27,B04,0.9581,0.50,Bronze,,,,,0,no 28-day outcome in GEO
+GSM1692477,2839,ICU,54,male,No_DM,,abdo_s,,No_ICUA,,2013-03-27,B07,0.9664,0.75,Bronze,,,,,0,no 28-day outcome in GEO
+GSM1692478,2866326,ICU,85,male,DM,,,,No_ICUA,,2013-03-27,B08,0.8945,1.00,Bronze,1,13,validation,Mars1,1,
+GSM1692479,2869,ICU,69,male,,,,,,,2013-03-27,B10,0.9569,0.50,Bronze,,,,,0,no 28-day outcome in GEO
+GSM1692480,1626,ICU,65,male,,,,,,,2013-03-27,C01,0.9564,0.50,Bronze,,,,,0,no 28-day outcome in GEO
+GSM1692481,171,ICU,60,male,,,,D_normal,No_ICUA,,2013-03-27,C02,0.9701,0.50,Bronze,,,,,0,no 28-day outcome in GEO
+GSM1692482,2803146,ICU,84,female,No_DM,hap,,,No_ICUA,,2013-03-27,C03,0.9514,1.00,Gold,0,28,validation,Mars4,1,
+GSM1692483,1206,ICU,56,female,,,ctrl_GI,,,,2013-03-27,C09,0.9774,0.50,Bronze,,,,,0,no 28-day outcome in GEO
+GSM1692484,2313,ICU,73,male,No_DM,,,,ICUA,,2013-03-27,C10,0.9471,1.00,Gold,0,28,discovery,Mars1,1,
+GSM1692485,2563256,ICU,57,male,No_DM,hap,,,No_ICUA,,2013-03-27,C12,0.9754,0.75,Bronze,,,,,0,no 28-day outcome in GEO
+GSM1692487,2836701,ICU,48,male,No_DM,hap,,C_low,No_ICUA,,2013-03-27,D05,0.9588,0.75,Bronze,,,,,0,no 28-day outcome in GEO
+GSM1692488,2539575,ICU,70,female,No_DM,,,,No_ICUA,,2013-03-27,D09,0.962,1.00,Gold,0,28,validation,Mars3,1,
+GSM1692489,2849655,ICU,81,male,No_DM,hap,,,No_ICUA,,2013-03-27,D10,0.9713,1.00,Gold,0,28,validation,Mars3,1,
+GSM1692490,2307892,ICU,66,male,,,ctrl_GI,,,,2013-03-27,D11,0.9174,0.50,Bronze,,,,,0,no 28-day outcome in GEO
+GSM1692491,2437188,ICU,18,male,No_DM,,,,No_ICUA,,2013-03-27,E01,0.9749,1.00,Gold,0,28,validation,Mars3,1,
+GSM1692492,2575353,ICU,19,female,No_DM,hap,,,No_ICUA,,2013-03-27,E04,0.9624,1.00,Gold,0,28,validation,Mars3,1,
+GSM1692493,2977805,ICU,49,female,No_DM,,,,No_ICUA,,2013-03-27,E06,0.9642,1.00,Gold,0,28,validation,Mars2,1,
+GSM1692494,1073,ICU,74,male,DM,,,C_low,,,2013-03-27,E07,0.9663,1.00,Gold,0,28,discovery,Mars1,1,
+GSM1692495,2922677,ICU,58,male,,,,,,,2013-03-27,E10,0.8622,0.50,Bronze,,,,,0,no 28-day outcome in GEO
+GSM1692496,2989698,ICU,53,male,,,ctrl_GI,,,,2013-03-27,E11,0.9605,0.50,Bronze,,,,,0,no 28-day outcome in GEO
+GSM1692497,2968378,ICU,65,male,,,,,,,2013-03-27,F01,0.9801,0.50,Bronze,,,,,0,no 28-day outcome in GEO
+GSM1692498,2904613,ICU,49,female,No_DM,hap,,,No_ICUA,,2013-03-27,F02,0.9067,1.00,Gold,0,28,validation,Mars1,1,
+GSM1692499,3393,ICU,32,male,No_DM,,,,,,2013-03-27,F09,0.9462,1.00,Gold,0,28,discovery,Mars2,1,
+GSM1692501,935,ICU,67,female,No_DM,,abdo_s,,,,2013-03-27,G02,0.9816,1.00,Gold,0,28,discovery,Mars3,1,
+GSM1692502,499,ICU,81,female,,,ctrl_GI,,,,2013-03-27,G07,0.9785,0.50,Bronze,,,,,0,no 28-day outcome in GEO
+GSM1692503,3316.1,ICU,63,female,,,,,,,2013-03-27,G08,0.9504,0.50,Bronze,,,,,0,no 28-day outcome in GEO
+GSM1692504,3283,ICU,45,male,,,,,,,2013-03-27,H02,0.9772,0.50,Bronze,,,,,0,no 28-day outcome in GEO

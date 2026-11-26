@@ -1,0 +1,9 @@
+collection_location,collection_site,n_samples,n_excluded,n_analysis_patients,n_survived,n_died,proportion_died
+australia,Emergency Room,84,0,84,75,9,0.107
+australia,Healthy/Pre-surgical,29,29,0,0,0,
+colombia,Emergency Room,67,1,66,59,7,0.106
+colombia,Healthy/Pre-surgical,6,6,0,0,0,
+netherlands,Emergency Room,104,0,104,88,16,0.154
+toronto,ICU,82,2,80,60,20,0.250
+vancouver,Emergency Room,11,0,11,11,0,0.000
+vancouver,Healthy/Pre-surgical,9,9,0,0,0,
