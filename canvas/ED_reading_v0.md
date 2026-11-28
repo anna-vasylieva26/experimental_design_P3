@@ -6,9 +6,10 @@ ED READING v0 - team 3 - Project 3: Gene Expression in Sepsis Mortality Predicti
 (b) the observational unit - ICU patients, healthy controls;
 (c) the unit of inference - ICU patients with sepsis.
 3. n at each level (count, from your data): 
-Dataset 1 (GSE65682): 802 total observations; 479 included in analysis ICU patients; 51 with abdominal sepsis.
+Dataset 1 (GSE65682): 802 total observations; 479 included in analysis ICU patients; 232 with pneumonia or abdominal sepsis.
 Dataset 2 (GSE185263): 392 total observations; 345 included in analysis ICU patients with sepsis
-Which of these counts does your claim rest on? - 51 and 345 ICU sepsis patients from 2 datasets.
+Dataset 3 (GSE272769): 161 critically ill sepsis patients (all observations)
+Which of these counts does your claim rest on? - 232, 345, 161 ICU sepsis patients from 2 datasets.
 4. The five design types. For each write APPLIES / PARTLY / NO and one sentence of reason
 that points to something you saw in the data:
 - Completely randomised: NO, nothing was randomly assigned, only fact of disease, death and survival observed;
