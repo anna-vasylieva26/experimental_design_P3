@@ -25,10 +25,10 @@ in-hospital death), are available as a second look. The files are in the
 ## Team
 
 | Name | GitHub username | Main responsibility |
-|------|-----------------|---------------------|
-| Anna Vasylieva | @anna-vasylieva26 | (fill in from team charter) |
-| Tetiana Symonenko | @tetianasymonenko | (fill in from team charter) |
-| Roslyslav Sydorenko | @sol0rid | (fill in from team charter) |
+|---|---|---|
+| Anna Vasylieva | @anna-vasylieva26 | Canvas fields 1, 4, 7 (question, comparison structure, replication & precision); data first look and checkpoint table; pitch |
+| Tetiana Symonenko | @tetianasymonenko | Canvas fields 2, 5, 8 (hypothesis & outcome, confounders, platform); design reading v0 (canvas/ED_reading_v0.md); AI declaration |
+| Rostyslav Sydorenko | @sol0rid | Canvas fields 3, 6, 9, 10 (units, controls & split, reproducibility, claims & limits); repository and README; report assembly |
 
 ## How to rerun
 
